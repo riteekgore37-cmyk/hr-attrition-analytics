@@ -1,0 +1,1501 @@
+EmployeeID,Department,JobRole,Segment,SegmentLabel
+1,Engineering,Software Engineer,0,Disengaged
+2,Finance,Finance Manager,1,Early-Career Builder
+3,Operations,Operations Manager,3,High Performer / Flight Risk
+4,Finance,Financial Analyst,2,Stable Core
+5,Sales,Sales Executive,3,High Performer / Flight Risk
+6,Marketing,Marketing Associate,3,High Performer / Flight Risk
+7,Engineering,Senior Engineer,1,Early-Career Builder
+8,Engineering,Engineering Manager,3,High Performer / Flight Risk
+9,Human Resources,Recruiter,2,Stable Core
+10,Marketing,Marketing Associate,3,High Performer / Flight Risk
+11,Customer Support,Support Associate,3,High Performer / Flight Risk
+12,Operations,Operations Manager,1,Early-Career Builder
+13,Finance,Accountant,1,Early-Career Builder
+14,Human Resources,HR Associate,0,Disengaged
+15,Sales,Sales Manager,1,Early-Career Builder
+16,Marketing,Content Specialist,1,Early-Career Builder
+17,Marketing,Content Specialist,1,Early-Career Builder
+18,Sales,Sales Executive,3,High Performer / Flight Risk
+19,Marketing,Marketing Manager,0,Disengaged
+20,Sales,Sales Executive,1,Early-Career Builder
+21,Engineering,Engineering Manager,3,High Performer / Flight Risk
+22,Sales,Account Manager,3,High Performer / Flight Risk
+23,Customer Support,Support Team Lead,0,Disengaged
+24,Operations,Operations Associate,3,High Performer / Flight Risk
+25,Customer Support,Support Associate,3,High Performer / Flight Risk
+26,Human Resources,HR Associate,2,Stable Core
+27,Sales,Sales Manager,0,Disengaged
+28,Sales,Sales Manager,2,Stable Core
+29,Customer Support,Support Associate,0,Disengaged
+30,Operations,Operations Manager,2,Stable Core
+31,Marketing,Marketing Associate,1,Early-Career Builder
+32,Sales,Sales Executive,1,Early-Career Builder
+33,Engineering,QA Engineer,0,Disengaged
+34,Engineering,QA Engineer,0,Disengaged
+35,Finance,Finance Manager,2,Stable Core
+36,Finance,Financial Analyst,3,High Performer / Flight Risk
+37,Human Resources,HR Manager,3,High Performer / Flight Risk
+38,Customer Support,Support Team Lead,0,Disengaged
+39,Human Resources,HR Manager,1,Early-Career Builder
+40,Sales,Account Manager,0,Disengaged
+41,Operations,Logistics Coordinator,1,Early-Career Builder
+42,Finance,Finance Manager,2,Stable Core
+43,Sales,Account Manager,2,Stable Core
+44,Sales,Account Manager,3,High Performer / Flight Risk
+45,Sales,Sales Manager,3,High Performer / Flight Risk
+46,Sales,Account Manager,3,High Performer / Flight Risk
+47,Engineering,QA Engineer,2,Stable Core
+48,Sales,Sales Manager,3,High Performer / Flight Risk
+49,Operations,Operations Manager,1,Early-Career Builder
+50,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+51,Engineering,Engineering Manager,2,Stable Core
+52,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+53,Finance,Accountant,1,Early-Career Builder
+54,Customer Support,Support Associate,1,Early-Career Builder
+55,Marketing,Marketing Manager,1,Early-Career Builder
+56,Customer Support,Support Team Lead,2,Stable Core
+57,Sales,Sales Executive,0,Disengaged
+58,Customer Support,Support Associate,3,High Performer / Flight Risk
+59,Customer Support,Support Associate,1,Early-Career Builder
+60,Finance,Accountant,3,High Performer / Flight Risk
+61,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+62,Engineering,QA Engineer,2,Stable Core
+63,Operations,Logistics Coordinator,1,Early-Career Builder
+64,Sales,Sales Executive,1,Early-Career Builder
+65,Engineering,Senior Engineer,0,Disengaged
+66,Engineering,Senior Engineer,1,Early-Career Builder
+67,Engineering,Senior Engineer,1,Early-Career Builder
+68,Sales,Account Manager,3,High Performer / Flight Risk
+69,Operations,Operations Associate,1,Early-Career Builder
+70,Sales,Account Manager,3,High Performer / Flight Risk
+71,Sales,Sales Manager,1,Early-Career Builder
+72,Finance,Financial Analyst,2,Stable Core
+73,Human Resources,HR Associate,0,Disengaged
+74,Engineering,Senior Engineer,3,High Performer / Flight Risk
+75,Sales,Sales Manager,1,Early-Career Builder
+76,Finance,Financial Analyst,1,Early-Career Builder
+77,Human Resources,HR Associate,1,Early-Career Builder
+78,Sales,Account Manager,2,Stable Core
+79,Customer Support,Support Team Lead,1,Early-Career Builder
+80,Operations,Operations Manager,1,Early-Career Builder
+81,Engineering,Engineering Manager,2,Stable Core
+82,Sales,Account Manager,3,High Performer / Flight Risk
+83,Human Resources,HR Associate,1,Early-Career Builder
+84,Sales,Account Manager,2,Stable Core
+85,Sales,Sales Executive,3,High Performer / Flight Risk
+86,Customer Support,Support Associate,3,High Performer / Flight Risk
+87,Operations,Operations Manager,0,Disengaged
+88,Operations,Logistics Coordinator,1,Early-Career Builder
+89,Sales,Account Manager,3,High Performer / Flight Risk
+90,Sales,Sales Executive,0,Disengaged
+91,Customer Support,Support Associate,0,Disengaged
+92,Engineering,Engineering Manager,2,Stable Core
+93,Sales,Account Manager,1,Early-Career Builder
+94,Operations,Operations Associate,1,Early-Career Builder
+95,Sales,Sales Executive,1,Early-Career Builder
+96,Sales,Sales Executive,1,Early-Career Builder
+97,Finance,Finance Manager,3,High Performer / Flight Risk
+98,Sales,Sales Executive,1,Early-Career Builder
+99,Sales,Sales Manager,1,Early-Career Builder
+100,Sales,Account Manager,0,Disengaged
+101,Sales,Sales Executive,0,Disengaged
+102,Human Resources,HR Associate,1,Early-Career Builder
+103,Operations,Operations Manager,3,High Performer / Flight Risk
+104,Sales,Account Manager,1,Early-Career Builder
+105,Engineering,QA Engineer,2,Stable Core
+106,Marketing,Content Specialist,3,High Performer / Flight Risk
+107,Finance,Financial Analyst,3,High Performer / Flight Risk
+108,Sales,Account Manager,1,Early-Career Builder
+109,Finance,Finance Manager,1,Early-Career Builder
+110,Sales,Account Manager,0,Disengaged
+111,Human Resources,Recruiter,3,High Performer / Flight Risk
+112,Customer Support,Support Associate,3,High Performer / Flight Risk
+113,Operations,Logistics Coordinator,0,Disengaged
+114,Marketing,Marketing Manager,0,Disengaged
+115,Operations,Operations Manager,1,Early-Career Builder
+116,Engineering,QA Engineer,0,Disengaged
+117,Human Resources,Recruiter,3,High Performer / Flight Risk
+118,Sales,Account Manager,3,High Performer / Flight Risk
+119,Operations,Operations Associate,1,Early-Career Builder
+120,Sales,Account Manager,1,Early-Career Builder
+121,Finance,Finance Manager,1,Early-Career Builder
+122,Finance,Financial Analyst,1,Early-Career Builder
+123,Marketing,Content Specialist,3,High Performer / Flight Risk
+124,Sales,Sales Executive,1,Early-Career Builder
+125,Human Resources,HR Manager,1,Early-Career Builder
+126,Engineering,Engineering Manager,1,Early-Career Builder
+127,Marketing,Marketing Associate,1,Early-Career Builder
+128,Engineering,Software Engineer,1,Early-Career Builder
+129,Engineering,QA Engineer,0,Disengaged
+130,Engineering,QA Engineer,1,Early-Career Builder
+131,Engineering,Engineering Manager,2,Stable Core
+132,Finance,Financial Analyst,1,Early-Career Builder
+133,Finance,Finance Manager,0,Disengaged
+134,Finance,Finance Manager,1,Early-Career Builder
+135,Marketing,Marketing Manager,3,High Performer / Flight Risk
+136,Operations,Operations Manager,1,Early-Career Builder
+137,Marketing,Marketing Associate,2,Stable Core
+138,Sales,Sales Executive,1,Early-Career Builder
+139,Human Resources,Recruiter,1,Early-Career Builder
+140,Human Resources,HR Associate,1,Early-Career Builder
+141,Sales,Account Manager,2,Stable Core
+142,Sales,Sales Manager,3,High Performer / Flight Risk
+143,Sales,Sales Executive,1,Early-Career Builder
+144,Operations,Operations Associate,3,High Performer / Flight Risk
+145,Finance,Finance Manager,0,Disengaged
+146,Operations,Operations Associate,3,High Performer / Flight Risk
+147,Sales,Sales Executive,1,Early-Career Builder
+148,Engineering,Software Engineer,1,Early-Career Builder
+149,Finance,Accountant,2,Stable Core
+150,Engineering,QA Engineer,2,Stable Core
+151,Sales,Account Manager,3,High Performer / Flight Risk
+152,Sales,Sales Manager,3,High Performer / Flight Risk
+153,Engineering,QA Engineer,3,High Performer / Flight Risk
+154,Marketing,Marketing Manager,1,Early-Career Builder
+155,Engineering,Senior Engineer,3,High Performer / Flight Risk
+156,Engineering,Senior Engineer,2,Stable Core
+157,Sales,Sales Manager,1,Early-Career Builder
+158,Operations,Operations Associate,0,Disengaged
+159,Engineering,Engineering Manager,2,Stable Core
+160,Sales,Sales Manager,0,Disengaged
+161,Engineering,QA Engineer,2,Stable Core
+162,Operations,Logistics Coordinator,2,Stable Core
+163,Sales,Sales Manager,2,Stable Core
+164,Sales,Sales Executive,0,Disengaged
+165,Marketing,Marketing Manager,3,High Performer / Flight Risk
+166,Finance,Financial Analyst,3,High Performer / Flight Risk
+167,Engineering,Engineering Manager,1,Early-Career Builder
+168,Customer Support,Support Associate,0,Disengaged
+169,Engineering,QA Engineer,2,Stable Core
+170,Human Resources,HR Manager,3,High Performer / Flight Risk
+171,Marketing,Marketing Manager,1,Early-Career Builder
+172,Customer Support,Support Team Lead,1,Early-Career Builder
+173,Sales,Sales Manager,0,Disengaged
+174,Operations,Logistics Coordinator,1,Early-Career Builder
+175,Finance,Finance Manager,3,High Performer / Flight Risk
+176,Customer Support,Support Associate,3,High Performer / Flight Risk
+177,Customer Support,Support Team Lead,1,Early-Career Builder
+178,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+179,Human Resources,HR Manager,3,High Performer / Flight Risk
+180,Customer Support,Support Associate,0,Disengaged
+181,Engineering,Senior Engineer,0,Disengaged
+182,Engineering,Software Engineer,1,Early-Career Builder
+183,Marketing,Marketing Manager,3,High Performer / Flight Risk
+184,Engineering,QA Engineer,2,Stable Core
+185,Operations,Logistics Coordinator,0,Disengaged
+186,Sales,Sales Manager,0,Disengaged
+187,Human Resources,HR Associate,3,High Performer / Flight Risk
+188,Engineering,Engineering Manager,2,Stable Core
+189,Operations,Operations Manager,1,Early-Career Builder
+190,Operations,Logistics Coordinator,2,Stable Core
+191,Customer Support,Support Team Lead,2,Stable Core
+192,Engineering,Senior Engineer,3,High Performer / Flight Risk
+193,Customer Support,Support Associate,3,High Performer / Flight Risk
+194,Sales,Account Manager,3,High Performer / Flight Risk
+195,Engineering,Engineering Manager,2,Stable Core
+196,Sales,Account Manager,1,Early-Career Builder
+197,Customer Support,Support Associate,3,High Performer / Flight Risk
+198,Customer Support,Support Associate,1,Early-Career Builder
+199,Sales,Account Manager,3,High Performer / Flight Risk
+200,Human Resources,HR Manager,1,Early-Career Builder
+201,Human Resources,HR Associate,3,High Performer / Flight Risk
+202,Operations,Operations Manager,1,Early-Career Builder
+203,Engineering,Software Engineer,1,Early-Career Builder
+204,Operations,Operations Associate,1,Early-Career Builder
+205,Finance,Accountant,1,Early-Career Builder
+206,Sales,Sales Manager,1,Early-Career Builder
+207,Finance,Financial Analyst,1,Early-Career Builder
+208,Customer Support,Support Associate,3,High Performer / Flight Risk
+209,Customer Support,Support Associate,3,High Performer / Flight Risk
+210,Engineering,QA Engineer,0,Disengaged
+211,Engineering,Software Engineer,1,Early-Career Builder
+212,Sales,Sales Executive,1,Early-Career Builder
+213,Sales,Sales Manager,2,Stable Core
+214,Engineering,QA Engineer,2,Stable Core
+215,Engineering,Engineering Manager,2,Stable Core
+216,Engineering,QA Engineer,0,Disengaged
+217,Operations,Operations Manager,3,High Performer / Flight Risk
+218,Sales,Account Manager,1,Early-Career Builder
+219,Human Resources,HR Associate,3,High Performer / Flight Risk
+220,Marketing,Marketing Manager,1,Early-Career Builder
+221,Finance,Financial Analyst,3,High Performer / Flight Risk
+222,Marketing,Content Specialist,1,Early-Career Builder
+223,Engineering,Senior Engineer,0,Disengaged
+224,Operations,Operations Associate,1,Early-Career Builder
+225,Engineering,Software Engineer,3,High Performer / Flight Risk
+226,Sales,Sales Manager,1,Early-Career Builder
+227,Engineering,Software Engineer,2,Stable Core
+228,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+229,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+230,Customer Support,Support Associate,1,Early-Career Builder
+231,Operations,Operations Associate,0,Disengaged
+232,Marketing,Marketing Manager,3,High Performer / Flight Risk
+233,Engineering,Engineering Manager,2,Stable Core
+234,Marketing,Marketing Associate,3,High Performer / Flight Risk
+235,Operations,Operations Associate,1,Early-Career Builder
+236,Engineering,Senior Engineer,0,Disengaged
+237,Engineering,Senior Engineer,0,Disengaged
+238,Customer Support,Support Associate,1,Early-Career Builder
+239,Operations,Operations Manager,1,Early-Career Builder
+240,Finance,Accountant,1,Early-Career Builder
+241,Sales,Sales Executive,3,High Performer / Flight Risk
+242,Sales,Sales Manager,3,High Performer / Flight Risk
+243,Finance,Financial Analyst,3,High Performer / Flight Risk
+244,Engineering,Engineering Manager,2,Stable Core
+245,Operations,Operations Manager,3,High Performer / Flight Risk
+246,Sales,Account Manager,0,Disengaged
+247,Sales,Account Manager,2,Stable Core
+248,Human Resources,HR Associate,0,Disengaged
+249,Marketing,Content Specialist,0,Disengaged
+250,Sales,Account Manager,3,High Performer / Flight Risk
+251,Customer Support,Support Associate,2,Stable Core
+252,Finance,Finance Manager,1,Early-Career Builder
+253,Finance,Accountant,1,Early-Career Builder
+254,Sales,Sales Executive,2,Stable Core
+255,Sales,Account Manager,2,Stable Core
+256,Marketing,Marketing Associate,2,Stable Core
+257,Finance,Accountant,3,High Performer / Flight Risk
+258,Customer Support,Support Team Lead,0,Disengaged
+259,Sales,Account Manager,1,Early-Career Builder
+260,Customer Support,Support Associate,1,Early-Career Builder
+261,Sales,Account Manager,2,Stable Core
+262,Sales,Sales Manager,1,Early-Career Builder
+263,Sales,Account Manager,2,Stable Core
+264,Customer Support,Support Associate,2,Stable Core
+265,Customer Support,Support Team Lead,2,Stable Core
+266,Finance,Finance Manager,2,Stable Core
+267,Engineering,Senior Engineer,0,Disengaged
+268,Marketing,Marketing Associate,1,Early-Career Builder
+269,Customer Support,Support Associate,0,Disengaged
+270,Customer Support,Support Team Lead,1,Early-Career Builder
+271,Marketing,Content Specialist,3,High Performer / Flight Risk
+272,Engineering,Software Engineer,3,High Performer / Flight Risk
+273,Customer Support,Support Associate,2,Stable Core
+274,Human Resources,HR Associate,3,High Performer / Flight Risk
+275,Operations,Operations Associate,1,Early-Career Builder
+276,Sales,Sales Manager,0,Disengaged
+277,Engineering,Senior Engineer,3,High Performer / Flight Risk
+278,Customer Support,Support Team Lead,0,Disengaged
+279,Operations,Operations Manager,3,High Performer / Flight Risk
+280,Finance,Accountant,3,High Performer / Flight Risk
+281,Engineering,Engineering Manager,2,Stable Core
+282,Finance,Financial Analyst,3,High Performer / Flight Risk
+283,Sales,Sales Manager,1,Early-Career Builder
+284,Marketing,Marketing Manager,3,High Performer / Flight Risk
+285,Sales,Sales Executive,2,Stable Core
+286,Human Resources,HR Manager,1,Early-Career Builder
+287,Operations,Logistics Coordinator,2,Stable Core
+288,Operations,Operations Associate,3,High Performer / Flight Risk
+289,Operations,Operations Associate,1,Early-Career Builder
+290,Engineering,Software Engineer,3,High Performer / Flight Risk
+291,Sales,Sales Manager,3,High Performer / Flight Risk
+292,Sales,Sales Manager,1,Early-Career Builder
+293,Customer Support,Support Associate,1,Early-Career Builder
+294,Finance,Accountant,0,Disengaged
+295,Customer Support,Support Team Lead,1,Early-Career Builder
+296,Human Resources,Recruiter,3,High Performer / Flight Risk
+297,Customer Support,Support Team Lead,0,Disengaged
+298,Customer Support,Support Team Lead,1,Early-Career Builder
+299,Customer Support,Support Team Lead,1,Early-Career Builder
+300,Finance,Financial Analyst,1,Early-Career Builder
+301,Marketing,Content Specialist,2,Stable Core
+302,Customer Support,Support Associate,1,Early-Career Builder
+303,Customer Support,Support Associate,1,Early-Career Builder
+304,Operations,Operations Associate,3,High Performer / Flight Risk
+305,Engineering,Software Engineer,1,Early-Career Builder
+306,Finance,Financial Analyst,1,Early-Career Builder
+307,Sales,Account Manager,1,Early-Career Builder
+308,Customer Support,Support Associate,3,High Performer / Flight Risk
+309,Finance,Finance Manager,0,Disengaged
+310,Marketing,Content Specialist,1,Early-Career Builder
+311,Engineering,Senior Engineer,0,Disengaged
+312,Engineering,QA Engineer,1,Early-Career Builder
+313,Marketing,Content Specialist,1,Early-Career Builder
+314,Operations,Logistics Coordinator,1,Early-Career Builder
+315,Human Resources,HR Manager,1,Early-Career Builder
+316,Operations,Operations Manager,0,Disengaged
+317,Marketing,Content Specialist,1,Early-Career Builder
+318,Operations,Logistics Coordinator,2,Stable Core
+319,Finance,Accountant,1,Early-Career Builder
+320,Engineering,Software Engineer,2,Stable Core
+321,Customer Support,Support Associate,0,Disengaged
+322,Human Resources,Recruiter,3,High Performer / Flight Risk
+323,Engineering,Software Engineer,1,Early-Career Builder
+324,Sales,Sales Executive,2,Stable Core
+325,Engineering,Engineering Manager,2,Stable Core
+326,Operations,Operations Manager,1,Early-Career Builder
+327,Customer Support,Support Associate,3,High Performer / Flight Risk
+328,Sales,Sales Manager,0,Disengaged
+329,Engineering,Engineering Manager,2,Stable Core
+330,Customer Support,Support Associate,0,Disengaged
+331,Marketing,Marketing Associate,3,High Performer / Flight Risk
+332,Customer Support,Support Team Lead,0,Disengaged
+333,Sales,Account Manager,3,High Performer / Flight Risk
+334,Sales,Sales Executive,1,Early-Career Builder
+335,Human Resources,HR Manager,3,High Performer / Flight Risk
+336,Finance,Financial Analyst,1,Early-Career Builder
+337,Finance,Finance Manager,1,Early-Career Builder
+338,Sales,Sales Executive,0,Disengaged
+339,Marketing,Content Specialist,1,Early-Career Builder
+340,Engineering,Senior Engineer,1,Early-Career Builder
+341,Customer Support,Support Team Lead,1,Early-Career Builder
+342,Sales,Account Manager,2,Stable Core
+343,Engineering,Senior Engineer,1,Early-Career Builder
+344,Customer Support,Support Team Lead,1,Early-Career Builder
+345,Customer Support,Support Team Lead,1,Early-Career Builder
+346,Customer Support,Support Team Lead,0,Disengaged
+347,Operations,Operations Associate,1,Early-Career Builder
+348,Customer Support,Support Team Lead,1,Early-Career Builder
+349,Engineering,Software Engineer,0,Disengaged
+350,Sales,Account Manager,1,Early-Career Builder
+351,Sales,Sales Manager,0,Disengaged
+352,Sales,Sales Executive,0,Disengaged
+353,Engineering,Engineering Manager,1,Early-Career Builder
+354,Marketing,Marketing Manager,1,Early-Career Builder
+355,Marketing,Content Specialist,0,Disengaged
+356,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+357,Sales,Sales Executive,3,High Performer / Flight Risk
+358,Operations,Operations Associate,3,High Performer / Flight Risk
+359,Marketing,Marketing Associate,1,Early-Career Builder
+360,Customer Support,Support Associate,0,Disengaged
+361,Finance,Accountant,2,Stable Core
+362,Sales,Sales Manager,0,Disengaged
+363,Operations,Operations Associate,1,Early-Career Builder
+364,Engineering,Software Engineer,2,Stable Core
+365,Sales,Sales Executive,1,Early-Career Builder
+366,Engineering,Engineering Manager,0,Disengaged
+367,Engineering,Engineering Manager,3,High Performer / Flight Risk
+368,Customer Support,Support Team Lead,1,Early-Career Builder
+369,Operations,Logistics Coordinator,2,Stable Core
+370,Sales,Account Manager,3,High Performer / Flight Risk
+371,Sales,Sales Executive,3,High Performer / Flight Risk
+372,Finance,Financial Analyst,3,High Performer / Flight Risk
+373,Finance,Accountant,1,Early-Career Builder
+374,Sales,Sales Executive,1,Early-Career Builder
+375,Human Resources,HR Associate,3,High Performer / Flight Risk
+376,Operations,Logistics Coordinator,1,Early-Career Builder
+377,Sales,Sales Manager,1,Early-Career Builder
+378,Engineering,Software Engineer,3,High Performer / Flight Risk
+379,Marketing,Content Specialist,1,Early-Career Builder
+380,Finance,Finance Manager,1,Early-Career Builder
+381,Engineering,Software Engineer,3,High Performer / Flight Risk
+382,Engineering,QA Engineer,0,Disengaged
+383,Human Resources,HR Associate,0,Disengaged
+384,Sales,Sales Executive,1,Early-Career Builder
+385,Sales,Sales Manager,3,High Performer / Flight Risk
+386,Engineering,Software Engineer,2,Stable Core
+387,Operations,Logistics Coordinator,2,Stable Core
+388,Finance,Accountant,0,Disengaged
+389,Sales,Sales Executive,1,Early-Career Builder
+390,Customer Support,Support Associate,0,Disengaged
+391,Finance,Finance Manager,1,Early-Career Builder
+392,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+393,Engineering,Software Engineer,0,Disengaged
+394,Sales,Account Manager,2,Stable Core
+395,Customer Support,Support Associate,0,Disengaged
+396,Sales,Account Manager,1,Early-Career Builder
+397,Finance,Accountant,1,Early-Career Builder
+398,Finance,Financial Analyst,1,Early-Career Builder
+399,Human Resources,HR Manager,1,Early-Career Builder
+400,Marketing,Marketing Associate,1,Early-Career Builder
+401,Engineering,Engineering Manager,0,Disengaged
+402,Operations,Operations Associate,1,Early-Career Builder
+403,Human Resources,HR Associate,1,Early-Career Builder
+404,Engineering,Senior Engineer,2,Stable Core
+405,Engineering,QA Engineer,1,Early-Career Builder
+406,Sales,Account Manager,1,Early-Career Builder
+407,Customer Support,Support Team Lead,1,Early-Career Builder
+408,Finance,Accountant,3,High Performer / Flight Risk
+409,Customer Support,Support Associate,1,Early-Career Builder
+410,Engineering,Senior Engineer,1,Early-Career Builder
+411,Sales,Sales Executive,2,Stable Core
+412,Customer Support,Support Team Lead,0,Disengaged
+413,Engineering,Engineering Manager,2,Stable Core
+414,Customer Support,Support Associate,3,High Performer / Flight Risk
+415,Operations,Operations Associate,1,Early-Career Builder
+416,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+417,Sales,Sales Executive,1,Early-Career Builder
+418,Engineering,QA Engineer,1,Early-Career Builder
+419,Operations,Logistics Coordinator,0,Disengaged
+420,Operations,Operations Associate,3,High Performer / Flight Risk
+421,Sales,Sales Manager,3,High Performer / Flight Risk
+422,Customer Support,Support Associate,1,Early-Career Builder
+423,Customer Support,Support Associate,3,High Performer / Flight Risk
+424,Sales,Account Manager,1,Early-Career Builder
+425,Finance,Finance Manager,0,Disengaged
+426,Operations,Operations Manager,1,Early-Career Builder
+427,Customer Support,Support Associate,3,High Performer / Flight Risk
+428,Customer Support,Support Team Lead,0,Disengaged
+429,Sales,Sales Manager,3,High Performer / Flight Risk
+430,Customer Support,Support Associate,2,Stable Core
+431,Marketing,Marketing Manager,1,Early-Career Builder
+432,Sales,Account Manager,3,High Performer / Flight Risk
+433,Sales,Sales Manager,1,Early-Career Builder
+434,Engineering,Software Engineer,1,Early-Career Builder
+435,Customer Support,Support Associate,1,Early-Career Builder
+436,Operations,Logistics Coordinator,0,Disengaged
+437,Finance,Finance Manager,2,Stable Core
+438,Sales,Sales Executive,1,Early-Career Builder
+439,Operations,Logistics Coordinator,2,Stable Core
+440,Operations,Operations Associate,0,Disengaged
+441,Marketing,Content Specialist,2,Stable Core
+442,Sales,Sales Manager,3,High Performer / Flight Risk
+443,Sales,Sales Executive,1,Early-Career Builder
+444,Engineering,Senior Engineer,1,Early-Career Builder
+445,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+446,Sales,Sales Manager,1,Early-Career Builder
+447,Engineering,Engineering Manager,0,Disengaged
+448,Marketing,Content Specialist,3,High Performer / Flight Risk
+449,Finance,Financial Analyst,3,High Performer / Flight Risk
+450,Human Resources,HR Manager,1,Early-Career Builder
+451,Customer Support,Support Associate,0,Disengaged
+452,Marketing,Content Specialist,0,Disengaged
+453,Sales,Sales Executive,1,Early-Career Builder
+454,Operations,Operations Manager,0,Disengaged
+455,Engineering,QA Engineer,0,Disengaged
+456,Marketing,Marketing Associate,1,Early-Career Builder
+457,Engineering,Engineering Manager,2,Stable Core
+458,Engineering,QA Engineer,2,Stable Core
+459,Engineering,Senior Engineer,1,Early-Career Builder
+460,Finance,Financial Analyst,1,Early-Career Builder
+461,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+462,Customer Support,Support Team Lead,1,Early-Career Builder
+463,Engineering,QA Engineer,1,Early-Career Builder
+464,Finance,Financial Analyst,2,Stable Core
+465,Sales,Account Manager,2,Stable Core
+466,Operations,Operations Manager,1,Early-Career Builder
+467,Human Resources,HR Associate,1,Early-Career Builder
+468,Operations,Operations Manager,3,High Performer / Flight Risk
+469,Operations,Logistics Coordinator,1,Early-Career Builder
+470,Human Resources,HR Associate,3,High Performer / Flight Risk
+471,Engineering,Engineering Manager,0,Disengaged
+472,Engineering,QA Engineer,2,Stable Core
+473,Sales,Account Manager,1,Early-Career Builder
+474,Customer Support,Support Team Lead,1,Early-Career Builder
+475,Customer Support,Support Team Lead,0,Disengaged
+476,Finance,Accountant,0,Disengaged
+477,Finance,Accountant,3,High Performer / Flight Risk
+478,Operations,Operations Associate,0,Disengaged
+479,Operations,Operations Associate,0,Disengaged
+480,Sales,Account Manager,2,Stable Core
+481,Sales,Sales Manager,2,Stable Core
+482,Marketing,Marketing Associate,1,Early-Career Builder
+483,Sales,Sales Executive,3,High Performer / Flight Risk
+484,Engineering,Engineering Manager,2,Stable Core
+485,Marketing,Marketing Manager,3,High Performer / Flight Risk
+486,Engineering,Software Engineer,0,Disengaged
+487,Engineering,Software Engineer,2,Stable Core
+488,Sales,Sales Manager,1,Early-Career Builder
+489,Operations,Operations Associate,3,High Performer / Flight Risk
+490,Customer Support,Support Team Lead,1,Early-Career Builder
+491,Customer Support,Support Team Lead,0,Disengaged
+492,Engineering,Engineering Manager,3,High Performer / Flight Risk
+493,Human Resources,Recruiter,3,High Performer / Flight Risk
+494,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+495,Operations,Operations Associate,3,High Performer / Flight Risk
+496,Engineering,Software Engineer,1,Early-Career Builder
+497,Sales,Account Manager,1,Early-Career Builder
+498,Engineering,QA Engineer,2,Stable Core
+499,Engineering,QA Engineer,3,High Performer / Flight Risk
+500,Operations,Logistics Coordinator,0,Disengaged
+501,Marketing,Content Specialist,0,Disengaged
+502,Operations,Operations Associate,3,High Performer / Flight Risk
+503,Engineering,Software Engineer,1,Early-Career Builder
+504,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+505,Engineering,Software Engineer,1,Early-Career Builder
+506,Engineering,Software Engineer,1,Early-Career Builder
+507,Operations,Operations Associate,1,Early-Career Builder
+508,Finance,Financial Analyst,3,High Performer / Flight Risk
+509,Sales,Account Manager,0,Disengaged
+510,Finance,Financial Analyst,1,Early-Career Builder
+511,Sales,Sales Manager,1,Early-Career Builder
+512,Customer Support,Support Team Lead,1,Early-Career Builder
+513,Marketing,Marketing Associate,2,Stable Core
+514,Finance,Finance Manager,1,Early-Career Builder
+515,Sales,Account Manager,0,Disengaged
+516,Engineering,Engineering Manager,1,Early-Career Builder
+517,Human Resources,HR Associate,0,Disengaged
+518,Marketing,Marketing Manager,3,High Performer / Flight Risk
+519,Sales,Sales Executive,1,Early-Career Builder
+520,Marketing,Content Specialist,2,Stable Core
+521,Engineering,Senior Engineer,3,High Performer / Flight Risk
+522,Engineering,Engineering Manager,2,Stable Core
+523,Sales,Sales Manager,1,Early-Career Builder
+524,Finance,Financial Analyst,1,Early-Career Builder
+525,Sales,Sales Executive,3,High Performer / Flight Risk
+526,Engineering,Software Engineer,3,High Performer / Flight Risk
+527,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+528,Sales,Sales Manager,1,Early-Career Builder
+529,Engineering,Software Engineer,3,High Performer / Flight Risk
+530,Customer Support,Support Team Lead,1,Early-Career Builder
+531,Human Resources,HR Manager,0,Disengaged
+532,Sales,Account Manager,1,Early-Career Builder
+533,Operations,Operations Associate,1,Early-Career Builder
+534,Finance,Finance Manager,1,Early-Career Builder
+535,Engineering,Software Engineer,1,Early-Career Builder
+536,Human Resources,HR Associate,2,Stable Core
+537,Customer Support,Support Team Lead,0,Disengaged
+538,Human Resources,HR Associate,3,High Performer / Flight Risk
+539,Engineering,QA Engineer,2,Stable Core
+540,Sales,Sales Executive,1,Early-Career Builder
+541,Engineering,Senior Engineer,1,Early-Career Builder
+542,Engineering,Engineering Manager,2,Stable Core
+543,Sales,Account Manager,3,High Performer / Flight Risk
+544,Human Resources,HR Manager,1,Early-Career Builder
+545,Marketing,Marketing Associate,1,Early-Career Builder
+546,Engineering,QA Engineer,2,Stable Core
+547,Engineering,Senior Engineer,2,Stable Core
+548,Sales,Account Manager,3,High Performer / Flight Risk
+549,Customer Support,Support Associate,0,Disengaged
+550,Sales,Sales Executive,3,High Performer / Flight Risk
+551,Sales,Sales Executive,3,High Performer / Flight Risk
+552,Finance,Financial Analyst,1,Early-Career Builder
+553,Engineering,Engineering Manager,2,Stable Core
+554,Operations,Logistics Coordinator,0,Disengaged
+555,Sales,Sales Executive,1,Early-Career Builder
+556,Sales,Sales Executive,3,High Performer / Flight Risk
+557,Customer Support,Support Associate,3,High Performer / Flight Risk
+558,Finance,Accountant,1,Early-Career Builder
+559,Marketing,Content Specialist,2,Stable Core
+560,Operations,Operations Manager,3,High Performer / Flight Risk
+561,Sales,Sales Executive,2,Stable Core
+562,Sales,Sales Manager,1,Early-Career Builder
+563,Customer Support,Support Associate,1,Early-Career Builder
+564,Sales,Sales Manager,0,Disengaged
+565,Operations,Operations Manager,3,High Performer / Flight Risk
+566,Human Resources,Recruiter,0,Disengaged
+567,Operations,Logistics Coordinator,0,Disengaged
+568,Operations,Operations Associate,1,Early-Career Builder
+569,Finance,Financial Analyst,3,High Performer / Flight Risk
+570,Engineering,Software Engineer,3,High Performer / Flight Risk
+571,Operations,Operations Associate,2,Stable Core
+572,Finance,Finance Manager,1,Early-Career Builder
+573,Sales,Sales Executive,1,Early-Career Builder
+574,Finance,Accountant,1,Early-Career Builder
+575,Sales,Sales Manager,0,Disengaged
+576,Operations,Operations Associate,3,High Performer / Flight Risk
+577,Sales,Sales Executive,0,Disengaged
+578,Engineering,Engineering Manager,1,Early-Career Builder
+579,Marketing,Marketing Associate,0,Disengaged
+580,Finance,Accountant,3,High Performer / Flight Risk
+581,Engineering,Senior Engineer,3,High Performer / Flight Risk
+582,Sales,Sales Manager,3,High Performer / Flight Risk
+583,Marketing,Marketing Associate,3,High Performer / Flight Risk
+584,Customer Support,Support Associate,1,Early-Career Builder
+585,Engineering,Senior Engineer,3,High Performer / Flight Risk
+586,Finance,Accountant,1,Early-Career Builder
+587,Marketing,Marketing Associate,1,Early-Career Builder
+588,Engineering,Software Engineer,2,Stable Core
+589,Operations,Operations Associate,0,Disengaged
+590,Human Resources,HR Manager,1,Early-Career Builder
+591,Customer Support,Support Associate,2,Stable Core
+592,Sales,Sales Executive,3,High Performer / Flight Risk
+593,Sales,Account Manager,0,Disengaged
+594,Human Resources,HR Associate,3,High Performer / Flight Risk
+595,Engineering,Engineering Manager,1,Early-Career Builder
+596,Engineering,QA Engineer,3,High Performer / Flight Risk
+597,Operations,Operations Associate,3,High Performer / Flight Risk
+598,Customer Support,Support Associate,1,Early-Career Builder
+599,Marketing,Marketing Manager,1,Early-Career Builder
+600,Sales,Sales Manager,1,Early-Career Builder
+601,Marketing,Content Specialist,1,Early-Career Builder
+602,Operations,Operations Manager,3,High Performer / Flight Risk
+603,Engineering,QA Engineer,1,Early-Career Builder
+604,Customer Support,Support Associate,3,High Performer / Flight Risk
+605,Customer Support,Support Associate,1,Early-Career Builder
+606,Customer Support,Support Team Lead,1,Early-Career Builder
+607,Finance,Financial Analyst,3,High Performer / Flight Risk
+608,Customer Support,Support Team Lead,1,Early-Career Builder
+609,Customer Support,Support Associate,0,Disengaged
+610,Marketing,Marketing Associate,0,Disengaged
+611,Marketing,Marketing Manager,2,Stable Core
+612,Human Resources,HR Associate,2,Stable Core
+613,Engineering,Engineering Manager,3,High Performer / Flight Risk
+614,Operations,Logistics Coordinator,1,Early-Career Builder
+615,Operations,Operations Associate,3,High Performer / Flight Risk
+616,Sales,Account Manager,2,Stable Core
+617,Finance,Accountant,2,Stable Core
+618,Operations,Operations Manager,0,Disengaged
+619,Sales,Sales Manager,1,Early-Career Builder
+620,Marketing,Marketing Manager,0,Disengaged
+621,Operations,Logistics Coordinator,1,Early-Career Builder
+622,Finance,Financial Analyst,1,Early-Career Builder
+623,Sales,Sales Manager,3,High Performer / Flight Risk
+624,Finance,Accountant,1,Early-Career Builder
+625,Operations,Operations Associate,1,Early-Career Builder
+626,Finance,Finance Manager,2,Stable Core
+627,Sales,Sales Manager,0,Disengaged
+628,Marketing,Marketing Associate,3,High Performer / Flight Risk
+629,Finance,Financial Analyst,0,Disengaged
+630,Engineering,Software Engineer,0,Disengaged
+631,Sales,Account Manager,2,Stable Core
+632,Human Resources,HR Associate,1,Early-Career Builder
+633,Engineering,Senior Engineer,3,High Performer / Flight Risk
+634,Engineering,Engineering Manager,3,High Performer / Flight Risk
+635,Engineering,Software Engineer,1,Early-Career Builder
+636,Marketing,Marketing Associate,1,Early-Career Builder
+637,Sales,Account Manager,3,High Performer / Flight Risk
+638,Sales,Sales Executive,1,Early-Career Builder
+639,Finance,Accountant,3,High Performer / Flight Risk
+640,Operations,Operations Manager,2,Stable Core
+641,Marketing,Content Specialist,1,Early-Career Builder
+642,Engineering,Engineering Manager,2,Stable Core
+643,Human Resources,Recruiter,0,Disengaged
+644,Human Resources,HR Manager,1,Early-Career Builder
+645,Finance,Financial Analyst,1,Early-Career Builder
+646,Sales,Account Manager,1,Early-Career Builder
+647,Engineering,Senior Engineer,2,Stable Core
+648,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+649,Sales,Sales Executive,3,High Performer / Flight Risk
+650,Customer Support,Support Team Lead,1,Early-Career Builder
+651,Sales,Sales Manager,3,High Performer / Flight Risk
+652,Engineering,Senior Engineer,0,Disengaged
+653,Customer Support,Support Team Lead,1,Early-Career Builder
+654,Engineering,Software Engineer,1,Early-Career Builder
+655,Human Resources,HR Associate,1,Early-Career Builder
+656,Engineering,QA Engineer,2,Stable Core
+657,Engineering,Engineering Manager,2,Stable Core
+658,Sales,Account Manager,0,Disengaged
+659,Finance,Financial Analyst,3,High Performer / Flight Risk
+660,Customer Support,Support Team Lead,0,Disengaged
+661,Human Resources,Recruiter,0,Disengaged
+662,Sales,Account Manager,2,Stable Core
+663,Sales,Account Manager,3,High Performer / Flight Risk
+664,Marketing,Content Specialist,1,Early-Career Builder
+665,Marketing,Content Specialist,0,Disengaged
+666,Marketing,Marketing Manager,1,Early-Career Builder
+667,Finance,Accountant,3,High Performer / Flight Risk
+668,Customer Support,Support Team Lead,0,Disengaged
+669,Marketing,Marketing Associate,2,Stable Core
+670,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+671,Sales,Sales Executive,1,Early-Career Builder
+672,Engineering,QA Engineer,2,Stable Core
+673,Operations,Logistics Coordinator,1,Early-Career Builder
+674,Sales,Sales Manager,3,High Performer / Flight Risk
+675,Customer Support,Support Team Lead,0,Disengaged
+676,Engineering,Engineering Manager,2,Stable Core
+677,Sales,Account Manager,0,Disengaged
+678,Human Resources,HR Manager,1,Early-Career Builder
+679,Operations,Operations Manager,3,High Performer / Flight Risk
+680,Sales,Account Manager,1,Early-Career Builder
+681,Finance,Financial Analyst,2,Stable Core
+682,Human Resources,HR Associate,1,Early-Career Builder
+683,Sales,Sales Manager,2,Stable Core
+684,Sales,Sales Manager,2,Stable Core
+685,Engineering,Engineering Manager,1,Early-Career Builder
+686,Finance,Finance Manager,3,High Performer / Flight Risk
+687,Finance,Accountant,0,Disengaged
+688,Marketing,Marketing Manager,2,Stable Core
+689,Engineering,Engineering Manager,3,High Performer / Flight Risk
+690,Finance,Finance Manager,1,Early-Career Builder
+691,Sales,Account Manager,1,Early-Career Builder
+692,Customer Support,Support Associate,1,Early-Career Builder
+693,Sales,Sales Executive,1,Early-Career Builder
+694,Operations,Operations Manager,0,Disengaged
+695,Engineering,QA Engineer,0,Disengaged
+696,Customer Support,Support Associate,1,Early-Career Builder
+697,Operations,Operations Associate,3,High Performer / Flight Risk
+698,Finance,Financial Analyst,3,High Performer / Flight Risk
+699,Human Resources,HR Manager,2,Stable Core
+700,Sales,Sales Manager,1,Early-Career Builder
+701,Finance,Accountant,2,Stable Core
+702,Sales,Sales Manager,3,High Performer / Flight Risk
+703,Human Resources,HR Manager,0,Disengaged
+704,Engineering,Engineering Manager,2,Stable Core
+705,Operations,Operations Associate,0,Disengaged
+706,Operations,Logistics Coordinator,2,Stable Core
+707,Customer Support,Support Team Lead,1,Early-Career Builder
+708,Engineering,Software Engineer,1,Early-Career Builder
+709,Human Resources,Recruiter,3,High Performer / Flight Risk
+710,Finance,Finance Manager,0,Disengaged
+711,Human Resources,HR Manager,3,High Performer / Flight Risk
+712,Engineering,Engineering Manager,2,Stable Core
+713,Engineering,Engineering Manager,2,Stable Core
+714,Operations,Logistics Coordinator,0,Disengaged
+715,Engineering,QA Engineer,0,Disengaged
+716,Finance,Finance Manager,3,High Performer / Flight Risk
+717,Sales,Account Manager,0,Disengaged
+718,Customer Support,Support Team Lead,0,Disengaged
+719,Engineering,QA Engineer,0,Disengaged
+720,Sales,Sales Manager,2,Stable Core
+721,Finance,Finance Manager,2,Stable Core
+722,Sales,Sales Executive,3,High Performer / Flight Risk
+723,Operations,Operations Manager,1,Early-Career Builder
+724,Sales,Sales Executive,0,Disengaged
+725,Marketing,Content Specialist,3,High Performer / Flight Risk
+726,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+727,Sales,Sales Manager,3,High Performer / Flight Risk
+728,Operations,Operations Manager,1,Early-Career Builder
+729,Operations,Operations Manager,3,High Performer / Flight Risk
+730,Engineering,Engineering Manager,2,Stable Core
+731,Finance,Financial Analyst,1,Early-Career Builder
+732,Finance,Financial Analyst,1,Early-Career Builder
+733,Finance,Finance Manager,1,Early-Career Builder
+734,Customer Support,Support Team Lead,1,Early-Career Builder
+735,Marketing,Content Specialist,1,Early-Career Builder
+736,Finance,Accountant,1,Early-Career Builder
+737,Marketing,Content Specialist,1,Early-Career Builder
+738,Sales,Sales Executive,2,Stable Core
+739,Engineering,Software Engineer,0,Disengaged
+740,Customer Support,Support Team Lead,1,Early-Career Builder
+741,Operations,Operations Associate,1,Early-Career Builder
+742,Sales,Account Manager,1,Early-Career Builder
+743,Human Resources,Recruiter,3,High Performer / Flight Risk
+744,Engineering,QA Engineer,1,Early-Career Builder
+745,Sales,Sales Manager,1,Early-Career Builder
+746,Human Resources,HR Associate,3,High Performer / Flight Risk
+747,Sales,Account Manager,1,Early-Career Builder
+748,Sales,Sales Executive,2,Stable Core
+749,Engineering,Senior Engineer,0,Disengaged
+750,Customer Support,Support Team Lead,0,Disengaged
+751,Marketing,Marketing Manager,1,Early-Career Builder
+752,Operations,Operations Manager,2,Stable Core
+753,Marketing,Content Specialist,1,Early-Career Builder
+754,Sales,Sales Manager,3,High Performer / Flight Risk
+755,Human Resources,Recruiter,1,Early-Career Builder
+756,Finance,Finance Manager,1,Early-Career Builder
+757,Operations,Operations Associate,3,High Performer / Flight Risk
+758,Engineering,Engineering Manager,2,Stable Core
+759,Operations,Operations Associate,3,High Performer / Flight Risk
+760,Operations,Operations Associate,0,Disengaged
+761,Operations,Operations Manager,1,Early-Career Builder
+762,Operations,Operations Associate,3,High Performer / Flight Risk
+763,Operations,Logistics Coordinator,2,Stable Core
+764,Engineering,QA Engineer,1,Early-Career Builder
+765,Operations,Logistics Coordinator,1,Early-Career Builder
+766,Sales,Sales Manager,1,Early-Career Builder
+767,Finance,Accountant,1,Early-Career Builder
+768,Human Resources,HR Manager,1,Early-Career Builder
+769,Operations,Logistics Coordinator,0,Disengaged
+770,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+771,Engineering,QA Engineer,3,High Performer / Flight Risk
+772,Operations,Operations Associate,3,High Performer / Flight Risk
+773,Engineering,Senior Engineer,2,Stable Core
+774,Human Resources,HR Manager,0,Disengaged
+775,Sales,Account Manager,0,Disengaged
+776,Engineering,Software Engineer,3,High Performer / Flight Risk
+777,Engineering,Senior Engineer,2,Stable Core
+778,Sales,Account Manager,2,Stable Core
+779,Marketing,Content Specialist,0,Disengaged
+780,Customer Support,Support Team Lead,1,Early-Career Builder
+781,Customer Support,Support Associate,1,Early-Career Builder
+782,Customer Support,Support Team Lead,0,Disengaged
+783,Engineering,QA Engineer,0,Disengaged
+784,Engineering,QA Engineer,0,Disengaged
+785,Operations,Operations Manager,1,Early-Career Builder
+786,Marketing,Marketing Associate,3,High Performer / Flight Risk
+787,Finance,Finance Manager,2,Stable Core
+788,Operations,Operations Manager,1,Early-Career Builder
+789,Engineering,Senior Engineer,2,Stable Core
+790,Marketing,Marketing Associate,3,High Performer / Flight Risk
+791,Operations,Operations Manager,0,Disengaged
+792,Finance,Finance Manager,3,High Performer / Flight Risk
+793,Engineering,Senior Engineer,3,High Performer / Flight Risk
+794,Marketing,Content Specialist,3,High Performer / Flight Risk
+795,Human Resources,Recruiter,3,High Performer / Flight Risk
+796,Operations,Logistics Coordinator,2,Stable Core
+797,Operations,Operations Manager,1,Early-Career Builder
+798,Sales,Sales Executive,2,Stable Core
+799,Human Resources,Recruiter,2,Stable Core
+800,Sales,Sales Manager,1,Early-Career Builder
+801,Engineering,Software Engineer,2,Stable Core
+802,Customer Support,Support Associate,1,Early-Career Builder
+803,Human Resources,Recruiter,0,Disengaged
+804,Operations,Logistics Coordinator,1,Early-Career Builder
+805,Finance,Finance Manager,2,Stable Core
+806,Operations,Operations Manager,3,High Performer / Flight Risk
+807,Engineering,Software Engineer,1,Early-Career Builder
+808,Engineering,Software Engineer,1,Early-Career Builder
+809,Engineering,QA Engineer,2,Stable Core
+810,Marketing,Marketing Manager,2,Stable Core
+811,Operations,Logistics Coordinator,1,Early-Career Builder
+812,Engineering,Senior Engineer,1,Early-Career Builder
+813,Engineering,Senior Engineer,2,Stable Core
+814,Operations,Logistics Coordinator,1,Early-Career Builder
+815,Marketing,Marketing Manager,1,Early-Career Builder
+816,Marketing,Content Specialist,3,High Performer / Flight Risk
+817,Engineering,Senior Engineer,2,Stable Core
+818,Sales,Sales Manager,3,High Performer / Flight Risk
+819,Customer Support,Support Team Lead,1,Early-Career Builder
+820,Engineering,QA Engineer,0,Disengaged
+821,Engineering,Engineering Manager,2,Stable Core
+822,Customer Support,Support Team Lead,0,Disengaged
+823,Engineering,Senior Engineer,1,Early-Career Builder
+824,Sales,Account Manager,3,High Performer / Flight Risk
+825,Marketing,Marketing Manager,0,Disengaged
+826,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+827,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+828,Operations,Operations Associate,0,Disengaged
+829,Finance,Finance Manager,0,Disengaged
+830,Human Resources,HR Manager,2,Stable Core
+831,Human Resources,HR Manager,1,Early-Career Builder
+832,Marketing,Content Specialist,0,Disengaged
+833,Sales,Account Manager,3,High Performer / Flight Risk
+834,Sales,Sales Executive,1,Early-Career Builder
+835,Operations,Operations Manager,3,High Performer / Flight Risk
+836,Operations,Operations Manager,0,Disengaged
+837,Customer Support,Support Team Lead,1,Early-Career Builder
+838,Sales,Sales Executive,0,Disengaged
+839,Finance,Finance Manager,3,High Performer / Flight Risk
+840,Customer Support,Support Team Lead,2,Stable Core
+841,Engineering,Senior Engineer,0,Disengaged
+842,Customer Support,Support Associate,0,Disengaged
+843,Operations,Operations Manager,0,Disengaged
+844,Customer Support,Support Team Lead,1,Early-Career Builder
+845,Engineering,Senior Engineer,1,Early-Career Builder
+846,Marketing,Marketing Associate,1,Early-Career Builder
+847,Customer Support,Support Team Lead,1,Early-Career Builder
+848,Sales,Sales Executive,1,Early-Career Builder
+849,Marketing,Content Specialist,3,High Performer / Flight Risk
+850,Sales,Sales Executive,1,Early-Career Builder
+851,Human Resources,HR Associate,1,Early-Career Builder
+852,Engineering,Software Engineer,3,High Performer / Flight Risk
+853,Customer Support,Support Associate,2,Stable Core
+854,Operations,Operations Associate,1,Early-Career Builder
+855,Sales,Sales Manager,0,Disengaged
+856,Human Resources,Recruiter,3,High Performer / Flight Risk
+857,Operations,Operations Manager,1,Early-Career Builder
+858,Finance,Financial Analyst,0,Disengaged
+859,Sales,Sales Manager,1,Early-Career Builder
+860,Customer Support,Support Associate,3,High Performer / Flight Risk
+861,Sales,Account Manager,2,Stable Core
+862,Customer Support,Support Team Lead,1,Early-Career Builder
+863,Finance,Finance Manager,3,High Performer / Flight Risk
+864,Marketing,Marketing Manager,1,Early-Career Builder
+865,Sales,Account Manager,3,High Performer / Flight Risk
+866,Sales,Sales Executive,2,Stable Core
+867,Finance,Financial Analyst,3,High Performer / Flight Risk
+868,Sales,Account Manager,1,Early-Career Builder
+869,Marketing,Marketing Manager,3,High Performer / Flight Risk
+870,Customer Support,Support Associate,0,Disengaged
+871,Marketing,Content Specialist,1,Early-Career Builder
+872,Customer Support,Support Associate,3,High Performer / Flight Risk
+873,Engineering,Software Engineer,1,Early-Career Builder
+874,Sales,Account Manager,3,High Performer / Flight Risk
+875,Finance,Finance Manager,0,Disengaged
+876,Sales,Sales Manager,1,Early-Career Builder
+877,Marketing,Marketing Manager,0,Disengaged
+878,Marketing,Marketing Associate,1,Early-Career Builder
+879,Finance,Finance Manager,1,Early-Career Builder
+880,Sales,Sales Executive,3,High Performer / Flight Risk
+881,Engineering,QA Engineer,3,High Performer / Flight Risk
+882,Engineering,QA Engineer,2,Stable Core
+883,Engineering,QA Engineer,2,Stable Core
+884,Human Resources,HR Manager,0,Disengaged
+885,Human Resources,HR Associate,2,Stable Core
+886,Engineering,Senior Engineer,1,Early-Career Builder
+887,Engineering,Senior Engineer,1,Early-Career Builder
+888,Sales,Sales Manager,1,Early-Career Builder
+889,Customer Support,Support Team Lead,1,Early-Career Builder
+890,Engineering,Software Engineer,0,Disengaged
+891,Engineering,Engineering Manager,2,Stable Core
+892,Customer Support,Support Associate,0,Disengaged
+893,Sales,Account Manager,0,Disengaged
+894,Operations,Logistics Coordinator,2,Stable Core
+895,Engineering,Engineering Manager,2,Stable Core
+896,Marketing,Marketing Manager,0,Disengaged
+897,Finance,Financial Analyst,1,Early-Career Builder
+898,Engineering,Senior Engineer,2,Stable Core
+899,Sales,Account Manager,2,Stable Core
+900,Customer Support,Support Associate,1,Early-Career Builder
+901,Sales,Sales Manager,1,Early-Career Builder
+902,Operations,Operations Manager,1,Early-Career Builder
+903,Sales,Sales Manager,0,Disengaged
+904,Human Resources,HR Associate,1,Early-Career Builder
+905,Engineering,Senior Engineer,0,Disengaged
+906,Operations,Operations Associate,3,High Performer / Flight Risk
+907,Marketing,Content Specialist,1,Early-Career Builder
+908,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+909,Operations,Operations Associate,1,Early-Career Builder
+910,Sales,Sales Executive,3,High Performer / Flight Risk
+911,Operations,Operations Manager,0,Disengaged
+912,Finance,Finance Manager,0,Disengaged
+913,Engineering,Senior Engineer,2,Stable Core
+914,Sales,Sales Executive,1,Early-Career Builder
+915,Finance,Financial Analyst,0,Disengaged
+916,Finance,Financial Analyst,3,High Performer / Flight Risk
+917,Engineering,Senior Engineer,2,Stable Core
+918,Finance,Financial Analyst,3,High Performer / Flight Risk
+919,Engineering,Software Engineer,3,High Performer / Flight Risk
+920,Customer Support,Support Team Lead,0,Disengaged
+921,Customer Support,Support Associate,0,Disengaged
+922,Engineering,Engineering Manager,1,Early-Career Builder
+923,Sales,Sales Manager,0,Disengaged
+924,Engineering,QA Engineer,3,High Performer / Flight Risk
+925,Engineering,Engineering Manager,2,Stable Core
+926,Engineering,Senior Engineer,1,Early-Career Builder
+927,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+928,Operations,Operations Manager,1,Early-Career Builder
+929,Sales,Account Manager,3,High Performer / Flight Risk
+930,Customer Support,Support Team Lead,2,Stable Core
+931,Operations,Operations Associate,0,Disengaged
+932,Engineering,QA Engineer,1,Early-Career Builder
+933,Operations,Operations Associate,1,Early-Career Builder
+934,Human Resources,HR Associate,3,High Performer / Flight Risk
+935,Finance,Financial Analyst,3,High Performer / Flight Risk
+936,Operations,Operations Manager,1,Early-Career Builder
+937,Operations,Operations Associate,1,Early-Career Builder
+938,Engineering,Software Engineer,2,Stable Core
+939,Engineering,Senior Engineer,3,High Performer / Flight Risk
+940,Customer Support,Support Associate,0,Disengaged
+941,Marketing,Marketing Associate,1,Early-Career Builder
+942,Engineering,QA Engineer,1,Early-Career Builder
+943,Engineering,Software Engineer,1,Early-Career Builder
+944,Operations,Operations Associate,1,Early-Career Builder
+945,Marketing,Marketing Associate,3,High Performer / Flight Risk
+946,Customer Support,Support Associate,1,Early-Career Builder
+947,Engineering,Engineering Manager,0,Disengaged
+948,Engineering,Senior Engineer,1,Early-Career Builder
+949,Engineering,Software Engineer,1,Early-Career Builder
+950,Finance,Financial Analyst,1,Early-Career Builder
+951,Operations,Operations Manager,3,High Performer / Flight Risk
+952,Marketing,Content Specialist,1,Early-Career Builder
+953,Sales,Account Manager,3,High Performer / Flight Risk
+954,Sales,Sales Executive,1,Early-Career Builder
+955,Finance,Finance Manager,3,High Performer / Flight Risk
+956,Operations,Logistics Coordinator,1,Early-Career Builder
+957,Sales,Sales Executive,3,High Performer / Flight Risk
+958,Engineering,Engineering Manager,2,Stable Core
+959,Engineering,QA Engineer,0,Disengaged
+960,Marketing,Content Specialist,1,Early-Career Builder
+961,Engineering,Senior Engineer,1,Early-Career Builder
+962,Sales,Sales Manager,0,Disengaged
+963,Engineering,Senior Engineer,1,Early-Career Builder
+964,Marketing,Content Specialist,2,Stable Core
+965,Customer Support,Support Team Lead,1,Early-Career Builder
+966,Sales,Sales Executive,3,High Performer / Flight Risk
+967,Engineering,Senior Engineer,2,Stable Core
+968,Customer Support,Support Associate,1,Early-Career Builder
+969,Sales,Sales Manager,3,High Performer / Flight Risk
+970,Human Resources,Recruiter,0,Disengaged
+971,Human Resources,Recruiter,0,Disengaged
+972,Sales,Sales Executive,1,Early-Career Builder
+973,Engineering,Engineering Manager,3,High Performer / Flight Risk
+974,Sales,Sales Manager,2,Stable Core
+975,Engineering,Senior Engineer,2,Stable Core
+976,Finance,Financial Analyst,3,High Performer / Flight Risk
+977,Sales,Sales Executive,1,Early-Career Builder
+978,Sales,Sales Executive,1,Early-Career Builder
+979,Operations,Logistics Coordinator,2,Stable Core
+980,Customer Support,Support Associate,1,Early-Career Builder
+981,Engineering,Software Engineer,0,Disengaged
+982,Human Resources,HR Manager,0,Disengaged
+983,Operations,Logistics Coordinator,1,Early-Career Builder
+984,Customer Support,Support Associate,1,Early-Career Builder
+985,Human Resources,HR Manager,0,Disengaged
+986,Sales,Sales Executive,3,High Performer / Flight Risk
+987,Marketing,Marketing Manager,0,Disengaged
+988,Marketing,Content Specialist,1,Early-Career Builder
+989,Engineering,Senior Engineer,2,Stable Core
+990,Finance,Financial Analyst,3,High Performer / Flight Risk
+991,Finance,Finance Manager,2,Stable Core
+992,Customer Support,Support Associate,0,Disengaged
+993,Operations,Operations Associate,1,Early-Career Builder
+994,Engineering,Engineering Manager,1,Early-Career Builder
+995,Engineering,QA Engineer,2,Stable Core
+996,Operations,Operations Manager,0,Disengaged
+997,Human Resources,HR Manager,1,Early-Career Builder
+998,Engineering,Software Engineer,1,Early-Career Builder
+999,Operations,Logistics Coordinator,1,Early-Career Builder
+1000,Operations,Operations Associate,3,High Performer / Flight Risk
+1001,Sales,Account Manager,0,Disengaged
+1002,Engineering,Senior Engineer,1,Early-Career Builder
+1003,Engineering,Engineering Manager,1,Early-Career Builder
+1004,Human Resources,HR Associate,1,Early-Career Builder
+1005,Customer Support,Support Associate,0,Disengaged
+1006,Sales,Account Manager,1,Early-Career Builder
+1007,Engineering,Senior Engineer,3,High Performer / Flight Risk
+1008,Operations,Operations Associate,3,High Performer / Flight Risk
+1009,Sales,Account Manager,2,Stable Core
+1010,Engineering,Engineering Manager,0,Disengaged
+1011,Engineering,Engineering Manager,2,Stable Core
+1012,Sales,Sales Manager,3,High Performer / Flight Risk
+1013,Customer Support,Support Associate,1,Early-Career Builder
+1014,Sales,Sales Manager,3,High Performer / Flight Risk
+1015,Engineering,Engineering Manager,2,Stable Core
+1016,Sales,Account Manager,0,Disengaged
+1017,Sales,Sales Manager,0,Disengaged
+1018,Engineering,QA Engineer,3,High Performer / Flight Risk
+1019,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1020,Sales,Sales Executive,3,High Performer / Flight Risk
+1021,Customer Support,Support Team Lead,1,Early-Career Builder
+1022,Finance,Finance Manager,0,Disengaged
+1023,Sales,Sales Executive,0,Disengaged
+1024,Sales,Account Manager,3,High Performer / Flight Risk
+1025,Engineering,Engineering Manager,2,Stable Core
+1026,Operations,Operations Manager,1,Early-Career Builder
+1027,Customer Support,Support Associate,3,High Performer / Flight Risk
+1028,Sales,Account Manager,2,Stable Core
+1029,Operations,Operations Associate,1,Early-Career Builder
+1030,Engineering,Senior Engineer,1,Early-Career Builder
+1031,Sales,Sales Executive,1,Early-Career Builder
+1032,Customer Support,Support Associate,1,Early-Career Builder
+1033,Customer Support,Support Associate,1,Early-Career Builder
+1034,Marketing,Marketing Associate,1,Early-Career Builder
+1035,Operations,Logistics Coordinator,0,Disengaged
+1036,Marketing,Content Specialist,3,High Performer / Flight Risk
+1037,Human Resources,HR Manager,0,Disengaged
+1038,Operations,Operations Manager,3,High Performer / Flight Risk
+1039,Finance,Accountant,0,Disengaged
+1040,Marketing,Content Specialist,3,High Performer / Flight Risk
+1041,Human Resources,Recruiter,3,High Performer / Flight Risk
+1042,Engineering,Senior Engineer,1,Early-Career Builder
+1043,Marketing,Marketing Manager,0,Disengaged
+1044,Sales,Sales Executive,1,Early-Career Builder
+1045,Sales,Sales Manager,2,Stable Core
+1046,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1047,Customer Support,Support Associate,3,High Performer / Flight Risk
+1048,Engineering,Software Engineer,3,High Performer / Flight Risk
+1049,Customer Support,Support Associate,3,High Performer / Flight Risk
+1050,Sales,Sales Manager,1,Early-Career Builder
+1051,Customer Support,Support Associate,1,Early-Career Builder
+1052,Finance,Finance Manager,1,Early-Career Builder
+1053,Customer Support,Support Team Lead,1,Early-Career Builder
+1054,Sales,Account Manager,0,Disengaged
+1055,Customer Support,Support Associate,3,High Performer / Flight Risk
+1056,Engineering,Software Engineer,2,Stable Core
+1057,Human Resources,HR Manager,1,Early-Career Builder
+1058,Customer Support,Support Team Lead,0,Disengaged
+1059,Sales,Sales Manager,1,Early-Career Builder
+1060,Operations,Operations Associate,2,Stable Core
+1061,Operations,Logistics Coordinator,0,Disengaged
+1062,Customer Support,Support Associate,1,Early-Career Builder
+1063,Operations,Operations Manager,1,Early-Career Builder
+1064,Human Resources,HR Associate,2,Stable Core
+1065,Sales,Account Manager,2,Stable Core
+1066,Marketing,Content Specialist,1,Early-Career Builder
+1067,Finance,Accountant,2,Stable Core
+1068,Engineering,QA Engineer,0,Disengaged
+1069,Sales,Sales Manager,1,Early-Career Builder
+1070,Human Resources,HR Manager,1,Early-Career Builder
+1071,Engineering,Software Engineer,2,Stable Core
+1072,Marketing,Content Specialist,0,Disengaged
+1073,Engineering,QA Engineer,0,Disengaged
+1074,Sales,Sales Executive,3,High Performer / Flight Risk
+1075,Marketing,Marketing Associate,3,High Performer / Flight Risk
+1076,Customer Support,Support Team Lead,1,Early-Career Builder
+1077,Sales,Sales Executive,3,High Performer / Flight Risk
+1078,Customer Support,Support Team Lead,2,Stable Core
+1079,Marketing,Content Specialist,1,Early-Career Builder
+1080,Customer Support,Support Associate,0,Disengaged
+1081,Sales,Sales Manager,2,Stable Core
+1082,Sales,Account Manager,0,Disengaged
+1083,Finance,Accountant,1,Early-Career Builder
+1084,Sales,Account Manager,3,High Performer / Flight Risk
+1085,Sales,Account Manager,2,Stable Core
+1086,Customer Support,Support Team Lead,1,Early-Career Builder
+1087,Operations,Operations Manager,0,Disengaged
+1088,Engineering,Engineering Manager,2,Stable Core
+1089,Marketing,Marketing Manager,1,Early-Career Builder
+1090,Marketing,Marketing Associate,1,Early-Career Builder
+1091,Sales,Sales Executive,1,Early-Career Builder
+1092,Human Resources,Recruiter,1,Early-Career Builder
+1093,Sales,Sales Manager,1,Early-Career Builder
+1094,Customer Support,Support Team Lead,1,Early-Career Builder
+1095,Sales,Account Manager,1,Early-Career Builder
+1096,Marketing,Marketing Associate,0,Disengaged
+1097,Finance,Financial Analyst,0,Disengaged
+1098,Customer Support,Support Team Lead,1,Early-Career Builder
+1099,Operations,Operations Manager,3,High Performer / Flight Risk
+1100,Sales,Sales Executive,1,Early-Career Builder
+1101,Marketing,Content Specialist,0,Disengaged
+1102,Sales,Account Manager,1,Early-Career Builder
+1103,Sales,Account Manager,1,Early-Career Builder
+1104,Sales,Account Manager,1,Early-Career Builder
+1105,Customer Support,Support Team Lead,1,Early-Career Builder
+1106,Marketing,Marketing Manager,2,Stable Core
+1107,Marketing,Marketing Manager,0,Disengaged
+1108,Finance,Finance Manager,0,Disengaged
+1109,Customer Support,Support Associate,1,Early-Career Builder
+1110,Human Resources,HR Manager,3,High Performer / Flight Risk
+1111,Finance,Finance Manager,3,High Performer / Flight Risk
+1112,Marketing,Marketing Manager,1,Early-Career Builder
+1113,Customer Support,Support Associate,1,Early-Career Builder
+1114,Finance,Accountant,0,Disengaged
+1115,Sales,Sales Manager,1,Early-Career Builder
+1116,Marketing,Marketing Manager,0,Disengaged
+1117,Engineering,QA Engineer,2,Stable Core
+1118,Finance,Accountant,1,Early-Career Builder
+1119,Finance,Accountant,1,Early-Career Builder
+1120,Sales,Account Manager,1,Early-Career Builder
+1121,Operations,Operations Associate,0,Disengaged
+1122,Marketing,Marketing Associate,1,Early-Career Builder
+1123,Sales,Sales Manager,0,Disengaged
+1124,Sales,Sales Manager,0,Disengaged
+1125,Operations,Operations Manager,2,Stable Core
+1126,Finance,Financial Analyst,3,High Performer / Flight Risk
+1127,Sales,Account Manager,1,Early-Career Builder
+1128,Engineering,Software Engineer,3,High Performer / Flight Risk
+1129,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1130,Sales,Account Manager,2,Stable Core
+1131,Customer Support,Support Team Lead,1,Early-Career Builder
+1132,Engineering,QA Engineer,2,Stable Core
+1133,Sales,Sales Manager,0,Disengaged
+1134,Operations,Operations Associate,3,High Performer / Flight Risk
+1135,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1136,Human Resources,Recruiter,0,Disengaged
+1137,Human Resources,Recruiter,2,Stable Core
+1138,Operations,Operations Manager,2,Stable Core
+1139,Sales,Sales Manager,3,High Performer / Flight Risk
+1140,Engineering,Engineering Manager,2,Stable Core
+1141,Sales,Sales Manager,1,Early-Career Builder
+1142,Engineering,Senior Engineer,1,Early-Career Builder
+1143,Sales,Sales Executive,1,Early-Career Builder
+1144,Human Resources,HR Associate,1,Early-Career Builder
+1145,Engineering,Senior Engineer,3,High Performer / Flight Risk
+1146,Operations,Operations Manager,2,Stable Core
+1147,Human Resources,Recruiter,1,Early-Career Builder
+1148,Marketing,Marketing Associate,3,High Performer / Flight Risk
+1149,Human Resources,HR Associate,1,Early-Career Builder
+1150,Human Resources,HR Associate,1,Early-Career Builder
+1151,Customer Support,Support Team Lead,1,Early-Career Builder
+1152,Customer Support,Support Associate,3,High Performer / Flight Risk
+1153,Operations,Logistics Coordinator,2,Stable Core
+1154,Marketing,Content Specialist,1,Early-Career Builder
+1155,Operations,Operations Associate,1,Early-Career Builder
+1156,Finance,Finance Manager,1,Early-Career Builder
+1157,Engineering,QA Engineer,2,Stable Core
+1158,Human Resources,HR Associate,3,High Performer / Flight Risk
+1159,Operations,Operations Manager,2,Stable Core
+1160,Operations,Logistics Coordinator,1,Early-Career Builder
+1161,Sales,Sales Executive,1,Early-Career Builder
+1162,Finance,Financial Analyst,3,High Performer / Flight Risk
+1163,Engineering,Engineering Manager,2,Stable Core
+1164,Sales,Sales Executive,0,Disengaged
+1165,Engineering,Software Engineer,0,Disengaged
+1166,Sales,Sales Executive,3,High Performer / Flight Risk
+1167,Customer Support,Support Associate,1,Early-Career Builder
+1168,Human Resources,HR Manager,0,Disengaged
+1169,Engineering,Engineering Manager,3,High Performer / Flight Risk
+1170,Customer Support,Support Team Lead,2,Stable Core
+1171,Sales,Sales Executive,3,High Performer / Flight Risk
+1172,Human Resources,HR Manager,0,Disengaged
+1173,Operations,Logistics Coordinator,0,Disengaged
+1174,Sales,Sales Manager,3,High Performer / Flight Risk
+1175,Engineering,QA Engineer,1,Early-Career Builder
+1176,Engineering,Senior Engineer,1,Early-Career Builder
+1177,Sales,Account Manager,1,Early-Career Builder
+1178,Operations,Operations Associate,3,High Performer / Flight Risk
+1179,Engineering,Software Engineer,3,High Performer / Flight Risk
+1180,Sales,Account Manager,0,Disengaged
+1181,Engineering,QA Engineer,1,Early-Career Builder
+1182,Sales,Account Manager,2,Stable Core
+1183,Engineering,Engineering Manager,2,Stable Core
+1184,Human Resources,HR Associate,1,Early-Career Builder
+1185,Human Resources,Recruiter,2,Stable Core
+1186,Engineering,Software Engineer,0,Disengaged
+1187,Sales,Account Manager,0,Disengaged
+1188,Operations,Logistics Coordinator,1,Early-Career Builder
+1189,Engineering,Engineering Manager,2,Stable Core
+1190,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1191,Engineering,Software Engineer,1,Early-Career Builder
+1192,Sales,Sales Manager,1,Early-Career Builder
+1193,Customer Support,Support Associate,1,Early-Career Builder
+1194,Engineering,Software Engineer,2,Stable Core
+1195,Finance,Financial Analyst,1,Early-Career Builder
+1196,Customer Support,Support Team Lead,1,Early-Career Builder
+1197,Sales,Account Manager,1,Early-Career Builder
+1198,Finance,Financial Analyst,1,Early-Career Builder
+1199,Sales,Sales Manager,3,High Performer / Flight Risk
+1200,Operations,Logistics Coordinator,0,Disengaged
+1201,Operations,Logistics Coordinator,2,Stable Core
+1202,Sales,Sales Manager,3,High Performer / Flight Risk
+1203,Customer Support,Support Team Lead,0,Disengaged
+1204,Operations,Operations Manager,1,Early-Career Builder
+1205,Operations,Logistics Coordinator,1,Early-Career Builder
+1206,Operations,Operations Manager,2,Stable Core
+1207,Sales,Sales Manager,1,Early-Career Builder
+1208,Finance,Financial Analyst,0,Disengaged
+1209,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1210,Sales,Sales Executive,3,High Performer / Flight Risk
+1211,Marketing,Marketing Manager,2,Stable Core
+1212,Finance,Accountant,3,High Performer / Flight Risk
+1213,Sales,Sales Manager,0,Disengaged
+1214,Customer Support,Support Associate,3,High Performer / Flight Risk
+1215,Customer Support,Support Team Lead,1,Early-Career Builder
+1216,Sales,Account Manager,3,High Performer / Flight Risk
+1217,Marketing,Content Specialist,0,Disengaged
+1218,Engineering,QA Engineer,3,High Performer / Flight Risk
+1219,Engineering,Senior Engineer,1,Early-Career Builder
+1220,Sales,Account Manager,1,Early-Career Builder
+1221,Engineering,QA Engineer,2,Stable Core
+1222,Finance,Accountant,2,Stable Core
+1223,Operations,Operations Manager,3,High Performer / Flight Risk
+1224,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1225,Sales,Sales Executive,1,Early-Career Builder
+1226,Sales,Sales Manager,1,Early-Career Builder
+1227,Engineering,Software Engineer,0,Disengaged
+1228,Sales,Account Manager,0,Disengaged
+1229,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1230,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1231,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1232,Engineering,QA Engineer,3,High Performer / Flight Risk
+1233,Human Resources,HR Associate,3,High Performer / Flight Risk
+1234,Customer Support,Support Associate,1,Early-Career Builder
+1235,Engineering,Engineering Manager,2,Stable Core
+1236,Sales,Sales Executive,2,Stable Core
+1237,Customer Support,Support Associate,1,Early-Career Builder
+1238,Engineering,Senior Engineer,2,Stable Core
+1239,Marketing,Content Specialist,1,Early-Career Builder
+1240,Customer Support,Support Associate,0,Disengaged
+1241,Marketing,Marketing Associate,3,High Performer / Flight Risk
+1242,Customer Support,Support Associate,1,Early-Career Builder
+1243,Sales,Sales Executive,1,Early-Career Builder
+1244,Customer Support,Support Team Lead,2,Stable Core
+1245,Operations,Operations Associate,1,Early-Career Builder
+1246,Sales,Sales Executive,1,Early-Career Builder
+1247,Sales,Account Manager,3,High Performer / Flight Risk
+1248,Engineering,Engineering Manager,2,Stable Core
+1249,Customer Support,Support Team Lead,1,Early-Career Builder
+1250,Finance,Accountant,1,Early-Career Builder
+1251,Customer Support,Support Team Lead,2,Stable Core
+1252,Operations,Operations Associate,0,Disengaged
+1253,Customer Support,Support Associate,1,Early-Career Builder
+1254,Sales,Sales Executive,1,Early-Career Builder
+1255,Human Resources,HR Associate,3,High Performer / Flight Risk
+1256,Operations,Operations Manager,3,High Performer / Flight Risk
+1257,Sales,Sales Executive,1,Early-Career Builder
+1258,Sales,Account Manager,0,Disengaged
+1259,Sales,Sales Executive,1,Early-Career Builder
+1260,Sales,Sales Manager,1,Early-Career Builder
+1261,Sales,Sales Executive,1,Early-Career Builder
+1262,Customer Support,Support Team Lead,1,Early-Career Builder
+1263,Human Resources,Recruiter,1,Early-Career Builder
+1264,Finance,Finance Manager,1,Early-Career Builder
+1265,Marketing,Content Specialist,2,Stable Core
+1266,Sales,Sales Executive,3,High Performer / Flight Risk
+1267,Operations,Operations Manager,0,Disengaged
+1268,Sales,Sales Executive,3,High Performer / Flight Risk
+1269,Sales,Sales Executive,1,Early-Career Builder
+1270,Sales,Account Manager,3,High Performer / Flight Risk
+1271,Engineering,Engineering Manager,1,Early-Career Builder
+1272,Engineering,Senior Engineer,2,Stable Core
+1273,Customer Support,Support Associate,1,Early-Career Builder
+1274,Marketing,Content Specialist,3,High Performer / Flight Risk
+1275,Sales,Sales Executive,0,Disengaged
+1276,Sales,Account Manager,0,Disengaged
+1277,Sales,Account Manager,1,Early-Career Builder
+1278,Finance,Accountant,0,Disengaged
+1279,Marketing,Content Specialist,3,High Performer / Flight Risk
+1280,Marketing,Content Specialist,3,High Performer / Flight Risk
+1281,Sales,Sales Manager,3,High Performer / Flight Risk
+1282,Finance,Accountant,0,Disengaged
+1283,Operations,Logistics Coordinator,1,Early-Career Builder
+1284,Engineering,Software Engineer,0,Disengaged
+1285,Sales,Account Manager,2,Stable Core
+1286,Operations,Operations Associate,3,High Performer / Flight Risk
+1287,Engineering,Senior Engineer,2,Stable Core
+1288,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1289,Marketing,Marketing Manager,1,Early-Career Builder
+1290,Sales,Sales Executive,1,Early-Career Builder
+1291,Marketing,Marketing Associate,1,Early-Career Builder
+1292,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1293,Engineering,Senior Engineer,2,Stable Core
+1294,Engineering,Engineering Manager,2,Stable Core
+1295,Engineering,Engineering Manager,2,Stable Core
+1296,Sales,Sales Manager,3,High Performer / Flight Risk
+1297,Finance,Finance Manager,1,Early-Career Builder
+1298,Human Resources,HR Manager,1,Early-Career Builder
+1299,Sales,Sales Executive,3,High Performer / Flight Risk
+1300,Marketing,Content Specialist,1,Early-Career Builder
+1301,Operations,Logistics Coordinator,2,Stable Core
+1302,Marketing,Marketing Manager,0,Disengaged
+1303,Customer Support,Support Associate,1,Early-Career Builder
+1304,Engineering,QA Engineer,3,High Performer / Flight Risk
+1305,Sales,Sales Executive,1,Early-Career Builder
+1306,Customer Support,Support Team Lead,0,Disengaged
+1307,Sales,Sales Executive,3,High Performer / Flight Risk
+1308,Sales,Sales Executive,3,High Performer / Flight Risk
+1309,Sales,Sales Executive,1,Early-Career Builder
+1310,Sales,Account Manager,1,Early-Career Builder
+1311,Customer Support,Support Associate,1,Early-Career Builder
+1312,Engineering,Software Engineer,1,Early-Career Builder
+1313,Engineering,Software Engineer,3,High Performer / Flight Risk
+1314,Sales,Sales Executive,1,Early-Career Builder
+1315,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1316,Sales,Account Manager,1,Early-Career Builder
+1317,Sales,Account Manager,0,Disengaged
+1318,Sales,Sales Executive,1,Early-Career Builder
+1319,Sales,Sales Executive,0,Disengaged
+1320,Sales,Account Manager,2,Stable Core
+1321,Marketing,Marketing Associate,1,Early-Career Builder
+1322,Engineering,QA Engineer,1,Early-Career Builder
+1323,Sales,Sales Manager,3,High Performer / Flight Risk
+1324,Engineering,Software Engineer,1,Early-Career Builder
+1325,Sales,Sales Executive,3,High Performer / Flight Risk
+1326,Engineering,QA Engineer,3,High Performer / Flight Risk
+1327,Operations,Logistics Coordinator,1,Early-Career Builder
+1328,Sales,Account Manager,3,High Performer / Flight Risk
+1329,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1330,Sales,Account Manager,0,Disengaged
+1331,Engineering,Engineering Manager,0,Disengaged
+1332,Sales,Account Manager,3,High Performer / Flight Risk
+1333,Sales,Sales Executive,0,Disengaged
+1334,Customer Support,Support Associate,3,High Performer / Flight Risk
+1335,Engineering,Senior Engineer,2,Stable Core
+1336,Customer Support,Support Associate,1,Early-Career Builder
+1337,Marketing,Content Specialist,0,Disengaged
+1338,Operations,Operations Manager,1,Early-Career Builder
+1339,Sales,Sales Executive,1,Early-Career Builder
+1340,Human Resources,HR Manager,1,Early-Career Builder
+1341,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1342,Sales,Sales Executive,0,Disengaged
+1343,Operations,Logistics Coordinator,1,Early-Career Builder
+1344,Engineering,Engineering Manager,2,Stable Core
+1345,Customer Support,Support Team Lead,1,Early-Career Builder
+1346,Engineering,QA Engineer,3,High Performer / Flight Risk
+1347,Operations,Operations Manager,0,Disengaged
+1348,Engineering,Engineering Manager,1,Early-Career Builder
+1349,Sales,Sales Executive,1,Early-Career Builder
+1350,Human Resources,HR Manager,1,Early-Career Builder
+1351,Sales,Account Manager,1,Early-Career Builder
+1352,Engineering,Software Engineer,0,Disengaged
+1353,Human Resources,Recruiter,3,High Performer / Flight Risk
+1354,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1355,Sales,Sales Manager,1,Early-Career Builder
+1356,Human Resources,Recruiter,2,Stable Core
+1357,Engineering,Senior Engineer,1,Early-Career Builder
+1358,Sales,Account Manager,2,Stable Core
+1359,Engineering,QA Engineer,0,Disengaged
+1360,Marketing,Marketing Associate,2,Stable Core
+1361,Engineering,QA Engineer,1,Early-Career Builder
+1362,Operations,Operations Manager,1,Early-Career Builder
+1363,Customer Support,Support Associate,0,Disengaged
+1364,Sales,Sales Executive,1,Early-Career Builder
+1365,Customer Support,Support Associate,1,Early-Career Builder
+1366,Engineering,Senior Engineer,3,High Performer / Flight Risk
+1367,Sales,Sales Executive,0,Disengaged
+1368,Operations,Operations Manager,1,Early-Career Builder
+1369,Finance,Accountant,0,Disengaged
+1370,Engineering,Senior Engineer,2,Stable Core
+1371,Operations,Logistics Coordinator,0,Disengaged
+1372,Sales,Account Manager,3,High Performer / Flight Risk
+1373,Operations,Logistics Coordinator,1,Early-Career Builder
+1374,Customer Support,Support Team Lead,2,Stable Core
+1375,Human Resources,HR Manager,0,Disengaged
+1376,Operations,Logistics Coordinator,0,Disengaged
+1377,Sales,Account Manager,2,Stable Core
+1378,Operations,Operations Manager,2,Stable Core
+1379,Human Resources,Recruiter,0,Disengaged
+1380,Sales,Account Manager,2,Stable Core
+1381,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1382,Operations,Logistics Coordinator,0,Disengaged
+1383,Operations,Logistics Coordinator,0,Disengaged
+1384,Operations,Operations Associate,1,Early-Career Builder
+1385,Finance,Accountant,0,Disengaged
+1386,Sales,Sales Manager,1,Early-Career Builder
+1387,Customer Support,Support Associate,0,Disengaged
+1388,Sales,Account Manager,1,Early-Career Builder
+1389,Operations,Operations Manager,0,Disengaged
+1390,Engineering,QA Engineer,1,Early-Career Builder
+1391,Engineering,QA Engineer,1,Early-Career Builder
+1392,Marketing,Marketing Manager,1,Early-Career Builder
+1393,Human Resources,HR Associate,3,High Performer / Flight Risk
+1394,Sales,Sales Manager,2,Stable Core
+1395,Engineering,Engineering Manager,3,High Performer / Flight Risk
+1396,Sales,Sales Executive,0,Disengaged
+1397,Engineering,QA Engineer,2,Stable Core
+1398,Engineering,Software Engineer,0,Disengaged
+1399,Operations,Operations Manager,1,Early-Career Builder
+1400,Operations,Operations Manager,3,High Performer / Flight Risk
+1401,Engineering,QA Engineer,1,Early-Career Builder
+1402,Operations,Logistics Coordinator,1,Early-Career Builder
+1403,Customer Support,Support Team Lead,0,Disengaged
+1404,Sales,Sales Manager,3,High Performer / Flight Risk
+1405,Marketing,Marketing Manager,1,Early-Career Builder
+1406,Sales,Sales Manager,1,Early-Career Builder
+1407,Engineering,Software Engineer,1,Early-Career Builder
+1408,Customer Support,Support Team Lead,1,Early-Career Builder
+1409,Customer Support,Support Associate,1,Early-Career Builder
+1410,Sales,Account Manager,3,High Performer / Flight Risk
+1411,Human Resources,HR Associate,1,Early-Career Builder
+1412,Finance,Finance Manager,0,Disengaged
+1413,Operations,Operations Manager,0,Disengaged
+1414,Marketing,Content Specialist,0,Disengaged
+1415,Engineering,Engineering Manager,2,Stable Core
+1416,Sales,Sales Manager,1,Early-Career Builder
+1417,Customer Support,Support Associate,3,High Performer / Flight Risk
+1418,Customer Support,Support Team Lead,1,Early-Career Builder
+1419,Operations,Operations Manager,0,Disengaged
+1420,Sales,Sales Manager,1,Early-Career Builder
+1421,Customer Support,Support Team Lead,1,Early-Career Builder
+1422,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1423,Engineering,QA Engineer,0,Disengaged
+1424,Sales,Sales Executive,3,High Performer / Flight Risk
+1425,Human Resources,HR Manager,0,Disengaged
+1426,Finance,Financial Analyst,1,Early-Career Builder
+1427,Customer Support,Support Team Lead,1,Early-Career Builder
+1428,Operations,Operations Associate,3,High Performer / Flight Risk
+1429,Engineering,Software Engineer,0,Disengaged
+1430,Human Resources,HR Manager,0,Disengaged
+1431,Customer Support,Support Associate,3,High Performer / Flight Risk
+1432,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1433,Engineering,Senior Engineer,0,Disengaged
+1434,Finance,Financial Analyst,0,Disengaged
+1435,Operations,Operations Associate,1,Early-Career Builder
+1436,Engineering,Senior Engineer,1,Early-Career Builder
+1437,Sales,Account Manager,0,Disengaged
+1438,Human Resources,Recruiter,0,Disengaged
+1439,Engineering,Engineering Manager,2,Stable Core
+1440,Human Resources,Recruiter,2,Stable Core
+1441,Operations,Operations Manager,2,Stable Core
+1442,Engineering,QA Engineer,2,Stable Core
+1443,Operations,Logistics Coordinator,1,Early-Career Builder
+1444,Engineering,Engineering Manager,2,Stable Core
+1445,Finance,Accountant,2,Stable Core
+1446,Human Resources,HR Manager,2,Stable Core
+1447,Customer Support,Support Team Lead,0,Disengaged
+1448,Human Resources,HR Associate,3,High Performer / Flight Risk
+1449,Customer Support,Support Associate,3,High Performer / Flight Risk
+1450,Customer Support,Support Associate,1,Early-Career Builder
+1451,Finance,Finance Manager,2,Stable Core
+1452,Engineering,Software Engineer,3,High Performer / Flight Risk
+1453,Customer Support,Support Associate,0,Disengaged
+1454,Operations,Operations Associate,0,Disengaged
+1455,Customer Support,Support Team Lead,2,Stable Core
+1456,Engineering,QA Engineer,2,Stable Core
+1457,Sales,Sales Executive,2,Stable Core
+1458,Marketing,Marketing Associate,1,Early-Career Builder
+1459,Customer Support,Support Associate,1,Early-Career Builder
+1460,Sales,Sales Manager,1,Early-Career Builder
+1461,Customer Support,Support Associate,1,Early-Career Builder
+1462,Human Resources,HR Associate,3,High Performer / Flight Risk
+1463,Customer Support,Support Team Lead,0,Disengaged
+1464,Finance,Accountant,0,Disengaged
+1465,Finance,Accountant,2,Stable Core
+1466,Sales,Sales Executive,0,Disengaged
+1467,Operations,Logistics Coordinator,3,High Performer / Flight Risk
+1468,Sales,Sales Executive,0,Disengaged
+1469,Finance,Financial Analyst,1,Early-Career Builder
+1470,Human Resources,HR Manager,3,High Performer / Flight Risk
+1471,Operations,Operations Associate,0,Disengaged
+1472,Sales,Sales Executive,2,Stable Core
+1473,Operations,Operations Manager,1,Early-Career Builder
+1474,Marketing,Marketing Manager,3,High Performer / Flight Risk
+1475,Sales,Account Manager,0,Disengaged
+1476,Engineering,Engineering Manager,0,Disengaged
+1477,Operations,Operations Manager,1,Early-Career Builder
+1478,Customer Support,Support Team Lead,3,High Performer / Flight Risk
+1479,Human Resources,HR Manager,1,Early-Career Builder
+1480,Engineering,Senior Engineer,2,Stable Core
+1481,Marketing,Marketing Associate,1,Early-Career Builder
+1482,Finance,Accountant,1,Early-Career Builder
+1483,Engineering,QA Engineer,1,Early-Career Builder
+1484,Engineering,Senior Engineer,1,Early-Career Builder
+1485,Marketing,Content Specialist,1,Early-Career Builder
+1486,Marketing,Marketing Manager,1,Early-Career Builder
+1487,Finance,Accountant,2,Stable Core
+1488,Human Resources,Recruiter,2,Stable Core
+1489,Human Resources,HR Manager,1,Early-Career Builder
+1490,Engineering,Senior Engineer,1,Early-Career Builder
+1491,Engineering,Software Engineer,0,Disengaged
+1492,Customer Support,Support Team Lead,1,Early-Career Builder
+1493,Sales,Sales Executive,3,High Performer / Flight Risk
+1494,Engineering,QA Engineer,2,Stable Core
+1495,Customer Support,Support Team Lead,1,Early-Career Builder
+1496,Finance,Financial Analyst,3,High Performer / Flight Risk
+1497,Engineering,Engineering Manager,2,Stable Core
+1498,Engineering,Engineering Manager,2,Stable Core
+1499,Marketing,Marketing Associate,3,High Performer / Flight Risk
+1500,Sales,Account Manager,2,Stable Core

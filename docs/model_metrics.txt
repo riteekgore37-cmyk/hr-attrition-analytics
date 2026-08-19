@@ -1,0 +1,18 @@
+HR ATTRITION PREDICTION MODEL — RandomForestClassifier
+=======================================================
+
+ROC-AUC Score: 0.690
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Stayed       0.82      0.87      0.85       236
+        Left       0.40      0.31      0.35        64
+
+    accuracy                           0.75       300
+   macro avg       0.61      0.59      0.60       300
+weighted avg       0.73      0.75      0.74       300
+
+Confusion Matrix:
+[[206  30]
+ [ 44  20]]

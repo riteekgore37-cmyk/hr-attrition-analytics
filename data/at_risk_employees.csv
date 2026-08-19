@@ -1,0 +1,1182 @@
+EmployeeID,Department,JobRole,MonthlyIncome,AttritionRiskScore,RiskCategory
+1431,Customer Support,Support Associate,31660,0.6383610080967438,High
+818,Sales,Sales Manager,64670,0.6372089085210071,High
+1298,Human Resources,HR Manager,51198,0.6310248966543988,High
+896,Marketing,Marketing Manager,50872,0.626722435143022,High
+429,Sales,Sales Manager,55731,0.6162115908261984,High
+852,Engineering,Software Engineer,58496,0.6016655923134595,High
+125,Human Resources,HR Manager,48245,0.5899803428496645,Medium
+1293,Engineering,Senior Engineer,107164,0.5811386257197234,Medium
+1339,Sales,Sales Executive,43951,0.5761780251390851,Medium
+1173,Operations,Logistics Coordinator,58962,0.576052796074849,Medium
+935,Finance,Financial Analyst,55077,0.5744202337257933,Medium
+1109,Customer Support,Support Associate,35484,0.5740380755345555,Medium
+1230,Marketing,Marketing Manager,49223,0.5719048710621447,Medium
+1282,Finance,Accountant,65361,0.5696201297750805,Medium
+1306,Customer Support,Support Team Lead,40492,0.567319142868034,Medium
+1186,Engineering,Software Engineer,66839,0.5639254118734708,Medium
+545,Marketing,Marketing Associate,47379,0.5635891598835678,Medium
+229,Operations,Logistics Coordinator,57847,0.5628599565678005,Medium
+1313,Engineering,Software Engineer,52486,0.5596882076918199,Medium
+368,Customer Support,Support Team Lead,51021,0.5594351035358784,Medium
+1069,Sales,Sales Manager,57634,0.5589100430745213,Medium
+82,Sales,Account Manager,64437,0.5585328059235075,Medium
+1023,Sales,Sales Executive,44254,0.554206127504165,Medium
+1260,Sales,Sales Manager,60939,0.5518440891975145,Medium
+604,Customer Support,Support Associate,31474,0.5458334906227817,Medium
+475,Customer Support,Support Team Lead,42048,0.5445572920946902,Medium
+961,Engineering,Senior Engineer,87267,0.5436098092536134,Medium
+908,Customer Support,Support Team Lead,45459,0.5433199737395932,Medium
+395,Customer Support,Support Associate,36435,0.5430731986381062,Medium
+815,Marketing,Marketing Manager,61206,0.5396594447205938,Medium
+1368,Operations,Operations Manager,50237,0.5396017719003087,Medium
+1354,Customer Support,Support Team Lead,40950,0.5382887645164742,Medium
+579,Marketing,Marketing Associate,42421,0.5381869638846499,Medium
+1179,Engineering,Software Engineer,59877,0.5374729949026075,Medium
+1396,Sales,Sales Executive,43397,0.5359681496327127,Medium
+166,Finance,Financial Analyst,46104,0.5336821046536975,Medium
+144,Operations,Operations Associate,40253,0.5334364804476944,Medium
+234,Marketing,Marketing Associate,35592,0.5332472762499969,Medium
+782,Customer Support,Support Team Lead,45424,0.5312911944005125,Medium
+630,Engineering,Software Engineer,58284,0.5292802861984164,Medium
+767,Finance,Accountant,56552,0.5242332003343018,Medium
+181,Engineering,Senior Engineer,74898,0.523554468813998,Medium
+590,Human Resources,HR Manager,51098,0.5227480421227483,Medium
+816,Marketing,Content Specialist,66034,0.5198360322046705,Medium
+351,Sales,Sales Manager,61800,0.5197165530465249,Medium
+1432,Marketing,Marketing Manager,55628,0.5192181269218243,Medium
+165,Marketing,Marketing Manager,51885,0.51811038233004,Medium
+1452,Engineering,Software Engineer,63321,0.5168247293388774,Medium
+1100,Sales,Sales Executive,42621,0.5166306602279803,Medium
+599,Marketing,Marketing Manager,55489,0.5161097813630915,Medium
+1134,Operations,Operations Associate,33482,0.5143065465004425,Medium
+652,Engineering,Senior Engineer,79791,0.5138352286784986,Medium
+1164,Sales,Sales Executive,47457,0.5114561629842665,Medium
+237,Engineering,Senior Engineer,87257,0.5114489997195292,Medium
+567,Operations,Logistics Coordinator,58006,0.5098235438262477,Medium
+114,Marketing,Marketing Manager,67374,0.5096787727039765,Medium
+1098,Customer Support,Support Team Lead,60383,0.5094538078319308,Medium
+597,Operations,Operations Associate,44991,0.5091733484710841,Medium
+1405,Marketing,Marketing Manager,53110,0.5091214754517414,Medium
+1322,Engineering,QA Engineer,93560,0.505822968975686,Medium
+1010,Engineering,Engineering Manager,139058,0.5043895550814198,Medium
+352,Sales,Sales Executive,48451,0.5040831035166136,Medium
+1428,Operations,Operations Associate,37720,0.5018883390358096,Medium
+201,Human Resources,HR Associate,35836,0.5017731348077317,Medium
+357,Sales,Sales Executive,49288,0.501636628386198,Medium
+649,Sales,Sales Executive,42303,0.5013743633129399,Medium
+328,Sales,Sales Manager,59112,0.5011914180322321,Medium
+824,Sales,Account Manager,65937,0.5010971432021102,Medium
+1318,Sales,Sales Executive,48696,0.5005455726966604,Medium
+438,Sales,Sales Executive,40726,0.5003881872941983,Medium
+837,Customer Support,Support Team Lead,52261,0.4993620663636693,Medium
+199,Sales,Account Manager,70634,0.4985067037293461,Medium
+278,Customer Support,Support Team Lead,45458,0.4984896743505934,Medium
+14,Human Resources,HR Associate,32953,0.49695604840445234,Medium
+753,Marketing,Content Specialist,59299,0.49628885211688956,Medium
+157,Sales,Sales Manager,59557,0.4953813910100903,Medium
+410,Engineering,Senior Engineer,94289,0.49533458230348903,Medium
+1419,Operations,Operations Manager,46307,0.4949169457358321,Medium
+1216,Sales,Account Manager,76233,0.4942406312329444,Medium
+1278,Finance,Accountant,74073,0.4936211804200975,Medium
+299,Customer Support,Support Team Lead,44279,0.4924996526241385,Medium
+623,Sales,Sales Manager,55875,0.4909948162359573,Medium
+1213,Sales,Sales Manager,55974,0.4908689295324834,Medium
+419,Operations,Logistics Coordinator,56367,0.4904667078867867,Medium
+378,Engineering,Software Engineer,65141,0.4901948271058886,Medium
+1202,Sales,Sales Manager,50413,0.4895288444516539,Medium
+1283,Operations,Logistics Coordinator,68488,0.48908631974165484,Medium
+297,Customer Support,Support Team Lead,43432,0.48883996535217117,Medium
+447,Engineering,Engineering Manager,121278,0.4887198066810676,Medium
+478,Operations,Operations Associate,35533,0.4862039735664945,Medium
+252,Finance,Finance Manager,79232,0.4847580761876601,Medium
+637,Sales,Account Manager,59736,0.4822075504329313,Medium
+170,Human Resources,HR Manager,47738,0.481533502769724,Medium
+981,Engineering,Software Engineer,49329,0.47951457585696233,Medium
+1413,Operations,Operations Manager,48330,0.4788304649201157,Medium
+1375,Human Resources,HR Manager,53118,0.4774893605415816,Medium
+377,Sales,Sales Manager,51750,0.4773911878945313,Medium
+563,Customer Support,Support Associate,29394,0.4770833985784583,Medium
+1466,Sales,Sales Executive,38586,0.47697733927547337,Medium
+393,Engineering,Software Engineer,71231,0.4763802442258583,Medium
+711,Human Resources,HR Manager,44763,0.4747739754258277,Medium
+1365,Customer Support,Support Associate,37757,0.4746254630429318,Medium
+757,Operations,Operations Associate,39796,0.474484993179607,Medium
+600,Sales,Sales Manager,54478,0.47435937692642244,Medium
+944,Operations,Operations Associate,41783,0.4739932206086047,Medium
+203,Engineering,Software Engineer,54325,0.4737588577620473,Medium
+54,Customer Support,Support Associate,28344,0.47345359083136385,Medium
+1369,Finance,Accountant,59423,0.47334643605809407,Medium
+610,Marketing,Marketing Associate,38292,0.4731178444573155,Medium
+158,Operations,Operations Associate,37510,0.47287692698833506,Medium
+1195,Finance,Financial Analyst,41338,0.4711420720455658,Medium
+206,Sales,Sales Manager,69340,0.47074330165856615,Medium
+849,Marketing,Content Specialist,60467,0.4695333145305593,Medium
+858,Finance,Financial Analyst,41853,0.46949340799642775,Medium
+449,Finance,Financial Analyst,43991,0.46947406196203273,Medium
+845,Engineering,Senior Engineer,92035,0.46905022368108235,Medium
+1196,Customer Support,Support Team Lead,41510,0.468803642508828,Medium
+677,Sales,Account Manager,66355,0.46732587629763456,Medium
+242,Sales,Sales Manager,57374,0.4669723345485311,Medium
+257,Finance,Accountant,64444,0.46624834412200433,Medium
+1017,Sales,Sales Manager,55793,0.4660703544851558,Medium
+1227,Engineering,Software Engineer,56083,0.4657270595527311,Medium
+356,Customer Support,Support Team Lead,49823,0.4656708360988043,Medium
+945,Marketing,Marketing Associate,40441,0.46501278591591527,Medium
+1288,Customer Support,Support Team Lead,45942,0.4646853139793266,Medium
+1240,Customer Support,Support Associate,35081,0.46414045265060955,Medium
+1338,Operations,Operations Manager,57079,0.4640283281108024,Medium
+55,Marketing,Marketing Manager,59255,0.4634814211983152,Medium
+275,Operations,Operations Associate,37636,0.4634416639543669,Medium
+911,Operations,Operations Manager,49145,0.46315004224961304,Medium
+933,Operations,Operations Associate,34455,0.46302390361217477,Medium
+1053,Customer Support,Support Team Lead,40246,0.4617764994782897,Medium
+384,Sales,Sales Executive,36525,0.4615717984779053,Medium
+1341,Customer Support,Support Team Lead,39661,0.4604476519985759,Medium
+62,Engineering,QA Engineer,109873,0.45906983981494676,Medium
+912,Finance,Finance Manager,84358,0.45842726917369103,Medium
+29,Customer Support,Support Associate,38808,0.4582537202797841,Medium
+522,Engineering,Engineering Manager,131754,0.4575769182751296,Medium
+902,Operations,Operations Manager,46027,0.45745626205042084,Medium
+1471,Operations,Operations Associate,41998,0.45706777249022584,Medium
+950,Finance,Financial Analyst,49066,0.45695772089874453,Medium
+1427,Customer Support,Support Team Lead,49354,0.4569381357903624,Medium
+99,Sales,Sales Manager,68668,0.45641426580894895,Medium
+1302,Marketing,Marketing Manager,52146,0.4563250063623054,Medium
+266,Finance,Finance Manager,97034,0.456275148092234,Medium
+543,Sales,Account Manager,68965,0.45625703612717244,Medium
+45,Sales,Sales Manager,59136,0.45621120019055744,Medium
+722,Sales,Sales Executive,46510,0.4558063578682493,Medium
+1037,Human Resources,HR Manager,54916,0.455481356300031,Medium
+13,Finance,Accountant,62913,0.45484829346282557,Medium
+707,Customer Support,Support Team Lead,43484,0.4547990944154385,Medium
+580,Finance,Accountant,58738,0.45382902820348514,Medium
+267,Engineering,Senior Engineer,72183,0.45380128948165965,Medium
+1096,Marketing,Marketing Associate,33860,0.45256350852231425,Medium
+312,Engineering,QA Engineer,100682,0.4525550014850241,Medium
+219,Human Resources,HR Associate,36983,0.45242706658042875,Medium
+457,Engineering,Engineering Manager,152710,0.4524176455532173,Medium
+806,Operations,Operations Manager,45287,0.451321137049008,Medium
+1040,Marketing,Content Specialist,74310,0.4509808298911338,Medium
+1086,Customer Support,Support Team Lead,41524,0.4502742657080332,Medium
+770,Operations,Logistics Coordinator,60113,0.45006297468861733,Medium
+355,Marketing,Content Specialist,59490,0.44940211445256606,Medium
+240,Finance,Accountant,61882,0.44926873367778447,Medium
+76,Finance,Financial Analyst,50551,0.44837499626531535,Medium
+803,Human Resources,Recruiter,71326,0.4482775366187924,Medium
+667,Finance,Accountant,69532,0.4480946378327454,Medium
+793,Engineering,Senior Engineer,97764,0.4464958129558646,Medium
+153,Engineering,QA Engineer,94159,0.4461997220961321,Medium
+204,Operations,Operations Associate,32733,0.44600617633486783,Medium
+133,Finance,Finance Manager,70299,0.4459128022502069,Medium
+1092,Human Resources,Recruiter,59526,0.4457939176766964,Medium
+89,Sales,Account Manager,81008,0.4456459570068129,Medium
+734,Customer Support,Support Team Lead,51674,0.44556012924649785,Medium
+220,Marketing,Marketing Manager,49628,0.4450901129509541,Medium
+827,Customer Support,Support Team Lead,44048,0.4449757713079788,Medium
+909,Operations,Operations Associate,38976,0.4448173173986593,Medium
+1148,Marketing,Marketing Associate,38516,0.4442327589502205,Medium
+194,Sales,Account Manager,68457,0.443862125218103,Medium
+1327,Operations,Logistics Coordinator,58692,0.44379550470182094,Medium
+129,Engineering,QA Engineer,119954,0.4436865416347815,Medium
+1207,Sales,Sales Manager,56588,0.4425945799513403,Medium
+375,Human Resources,HR Associate,45926,0.44173041537964036,Medium
+10,Marketing,Marketing Associate,42043,0.44080342525772326,Medium
+919,Engineering,Software Engineer,54120,0.43945858671048765,Medium
+634,Engineering,Engineering Manager,119035,0.4394224114137035,Medium
+718,Customer Support,Support Team Lead,49634,0.43932755188444955,Medium
+884,Human Resources,HR Manager,48163,0.43891202544077484,Medium
+1039,Finance,Accountant,71114,0.43875578089099726,Medium
+754,Sales,Sales Manager,57834,0.438400709520224,Medium
+769,Operations,Logistics Coordinator,63792,0.43814654022858407,Medium
+863,Finance,Finance Manager,72873,0.43771360614478977,Medium
+217,Operations,Operations Manager,58533,0.4368602376566896,Medium
+1014,Sales,Sales Manager,62519,0.4368411592342078,Medium
+581,Engineering,Senior Engineer,77285,0.43642952307847777,Medium
+104,Sales,Account Manager,78394,0.43642868382983,Medium
+37,Human Resources,HR Manager,59893,0.4362361654911307,Medium
+337,Finance,Finance Manager,68461,0.4361265288666434,Medium
+727,Sales,Sales Manager,69804,0.43605867464325615,Medium
+1168,Human Resources,HR Manager,53276,0.43572040974229687,Medium
+336,Finance,Financial Analyst,44166,0.4352612230296023,Medium
+300,Finance,Financial Analyst,45981,0.4352312644941682,Medium
+1254,Sales,Sales Executive,45471,0.4349343713563178,Medium
+494,Customer Support,Support Team Lead,44788,0.4348513070187562,Medium
+1241,Marketing,Marketing Associate,44178,0.43387014885617486,Medium
+1113,Customer Support,Support Associate,43315,0.43316410723024773,Medium
+1018,Engineering,QA Engineer,94832,0.4329248850268885,Medium
+1309,Sales,Sales Executive,48586,0.4320381433820749,Medium
+1000,Operations,Operations Associate,38442,0.4310410767090942,Medium
+1473,Operations,Operations Manager,57045,0.4303926141813422,Medium
+111,Human Resources,Recruiter,61848,0.43032618348121,Medium
+50,Operations,Logistics Coordinator,61302,0.42968594122697473,Medium
+127,Marketing,Marketing Associate,45025,0.42966279048808853,Medium
+1070,Human Resources,HR Manager,57729,0.4293391145340749,Medium
+940,Customer Support,Support Associate,45659,0.42885955818749094,Medium
+601,Marketing,Content Specialist,80531,0.42878032889736717,Medium
+643,Human Resources,Recruiter,70514,0.42868185206124454,Medium
+1434,Finance,Financial Analyst,44065,0.42866888668966424,Medium
+1151,Customer Support,Support Team Lead,49612,0.4286612187544978,Medium
+865,Sales,Account Manager,78633,0.4285999859312221,Medium
+1442,Engineering,QA Engineer,124619,0.42804907244974555,Medium
+1397,Engineering,QA Engineer,126198,0.4278427940119092,Medium
+460,Finance,Financial Analyst,51454,0.4275318877430383,Medium
+1406,Sales,Sales Manager,57144,0.427292011598151,Medium
+323,Engineering,Software Engineer,54849,0.4265820968023863,Medium
+586,Finance,Accountant,60890,0.4265057910629626,Medium
+486,Engineering,Software Engineer,62184,0.42595846443891533,Medium
+888,Sales,Sales Manager,53632,0.42578459301242305,Medium
+145,Finance,Finance Manager,93625,0.42512665115013465,Medium
+277,Engineering,Senior Engineer,78371,0.4247144442586014,Medium
+135,Marketing,Marketing Manager,53989,0.4246761467971672,Medium
+1030,Engineering,Senior Engineer,90496,0.424643276366742,Medium
+679,Operations,Operations Manager,50475,0.4246356377748241,Medium
+335,Human Resources,HR Manager,50690,0.4243846857137562,Medium
+1145,Engineering,Senior Engineer,75480,0.42407495010045915,Medium
+922,Engineering,Engineering Manager,117587,0.4236965952030167,Medium
+489,Operations,Operations Associate,37398,0.4235219706569826,Medium
+1152,Customer Support,Support Associate,40024,0.4229798811664201,Medium
+154,Marketing,Marketing Manager,53407,0.4224887559738445,Medium
+1166,Sales,Sales Executive,41204,0.42205058932139783,Medium
+530,Customer Support,Support Team Lead,46980,0.4214118528728415,Medium
+339,Marketing,Content Specialist,51196,0.42135649350639265,Medium
+1346,Engineering,QA Engineer,109031,0.421351095523033,Medium
+776,Engineering,Software Engineer,55689,0.421166618823838,Medium
+1200,Operations,Logistics Coordinator,59062,0.4208613255615569,Medium
+292,Sales,Sales Manager,53954,0.4204102575878396,Medium
+821,Engineering,Engineering Manager,131756,0.4202592585310851,Medium
+1435,Operations,Operations Associate,41245,0.4202483429809525,Medium
+1076,Customer Support,Support Team Lead,52487,0.42017583195358565,Medium
+436,Operations,Logistics Coordinator,56876,0.4196526033008517,Medium
+174,Operations,Logistics Coordinator,58680,0.4196063340932935,Medium
+687,Finance,Accountant,59317,0.41928061735244093,Medium
+1399,Operations,Operations Manager,52074,0.4192083233786308,Medium
+1296,Sales,Sales Manager,60019,0.4190855064617769,Medium
+189,Operations,Operations Manager,55704,0.4189282322903149,Medium
+526,Engineering,Software Engineer,71028,0.4188226901321273,Medium
+1459,Customer Support,Support Associate,41469,0.41881367739123515,Medium
+5,Sales,Sales Executive,42808,0.4186231775284465,Medium
+1408,Customer Support,Support Team Lead,52511,0.4185041048583951,Medium
+271,Marketing,Content Specialist,71070,0.4178565531301783,Medium
+493,Human Resources,Recruiter,57266,0.41719968730935514,Medium
+453,Sales,Sales Executive,47875,0.41710852377021085,Medium
+1132,Engineering,QA Engineer,98690,0.4169389066122368,Medium
+705,Operations,Operations Associate,35959,0.41681585223524015,Medium
+724,Sales,Sales Executive,41355,0.41575682095236943,Medium
+496,Engineering,Software Engineer,59211,0.41572984274937114,Medium
+962,Sales,Sales Manager,62435,0.4156383860852362,Medium
+1117,Engineering,QA Engineer,107129,0.41471020231860917,Medium
+602,Operations,Operations Manager,46223,0.4147009027688512,Medium
+6,Marketing,Marketing Associate,43126,0.41466716442158763,Medium
+725,Marketing,Content Specialist,65289,0.41459583513758363,Medium
+1304,Engineering,QA Engineer,89006,0.4143010417193081,Medium
+1342,Sales,Sales Executive,42341,0.4141866026353758,Medium
+371,Sales,Sales Executive,44698,0.41409057018655276,Medium
+836,Operations,Operations Manager,48503,0.4139853289525084,Medium
+1074,Sales,Sales Executive,46146,0.41376658558418267,Medium
+1231,Customer Support,Support Team Lead,45534,0.41375720833441326,Medium
+417,Sales,Sales Executive,50105,0.41362090539671326,Medium
+1381,Customer Support,Support Team Lead,48662,0.41329951703904366,Medium
+228,Operations,Logistics Coordinator,54323,0.4129582860120683,Medium
+1299,Sales,Sales Executive,41266,0.41219343756469196,Medium
+1492,Customer Support,Support Team Lead,43546,0.4117429338293572,Medium
+477,Finance,Accountant,62298,0.41167770086847894,Medium
+864,Marketing,Marketing Manager,48101,0.41165363471020805,Medium
+415,Operations,Operations Associate,36808,0.41139954491093494,Medium
+966,Sales,Sales Executive,40310,0.4105233571585931,Medium
+1303,Customer Support,Support Associate,34242,0.41047895224463543,Medium
+1019,Operations,Logistics Coordinator,66106,0.41028751338023445,Medium
+1150,Human Resources,HR Associate,40839,0.41006056054404944,Medium
+698,Finance,Financial Analyst,49512,0.4095823518415152,Medium
+221,Finance,Financial Analyst,57521,0.40946510342194825,Medium
+694,Operations,Operations Manager,40813,0.4089565511603544,Medium
+461,Operations,Logistics Coordinator,57179,0.4086945320376535,Medium
+1297,Finance,Finance Manager,87464,0.4086622165014967,Medium
+232,Marketing,Marketing Manager,51763,0.4085455811571445,Medium
+686,Finance,Finance Manager,77636,0.4082831706794653,Medium
+262,Sales,Sales Manager,55384,0.40821934120687403,Medium
+216,Engineering,QA Engineer,113651,0.40777486756865394,Medium
+1212,Finance,Accountant,60450,0.40769193374683205,Medium
+550,Sales,Sales Executive,45922,0.40699423959288145,Medium
+660,Customer Support,Support Team Lead,46363,0.40666832467557906,Medium
+766,Sales,Sales Manager,58076,0.4061814623281031,Medium
+71,Sales,Sales Manager,56215,0.40584503123278964,Medium
+822,Customer Support,Support Team Lead,54747,0.4057923263404045,Medium
+46,Sales,Account Manager,79167,0.4047909702256518,Medium
+792,Finance,Finance Manager,75705,0.40460249447093144,Medium
+976,Finance,Financial Analyst,51654,0.4044434656237288,Medium
+835,Operations,Operations Manager,38143,0.404409868278162,Medium
+314,Operations,Logistics Coordinator,57976,0.4038087821350828,Medium
+202,Operations,Operations Manager,47148,0.4029584950152676,Medium
+210,Engineering,QA Engineer,105809,0.40266916547010645,Medium
+951,Operations,Operations Manager,45955,0.402243359432999,Medium
+743,Human Resources,Recruiter,65065,0.4019038975344126,Medium
+374,Sales,Sales Executive,39763,0.40184950306697464,Medium
+454,Operations,Operations Manager,45924,0.40100911830862845,Medium
+1123,Sales,Sales Manager,56085,0.400852348552391,Medium
+49,Operations,Operations Manager,55629,0.400769570454389,Medium
+1192,Sales,Sales Manager,54638,0.4007440619824108,Medium
+291,Sales,Sales Manager,57093,0.400682548070616,Medium
+629,Finance,Financial Analyst,44828,0.40048020648910354,Medium
+73,Human Resources,HR Associate,35263,0.3999740170477659,Medium
+1198,Finance,Financial Analyst,47742,0.3999362847934091,Medium
+1020,Sales,Sales Executive,45710,0.39963525566848035,Medium
+167,Engineering,Engineering Manager,113660,0.39958991848475006,Medium
+512,Customer Support,Support Team Lead,44907,0.3993290488571409,Medium
+287,Operations,Logistics Coordinator,72750,0.3992972448975925,Medium
+388,Finance,Accountant,76341,0.3981084450200431,Medium
+583,Marketing,Marketing Associate,40236,0.39800502262768,Medium
+772,Operations,Operations Associate,36926,0.3974647161471938,Medium
+1135,Customer Support,Support Team Lead,63468,0.397449411152935,Medium
+44,Sales,Account Manager,75424,0.3973817696364197,Medium
+969,Sales,Sales Manager,58813,0.39730336846448344,Medium
+172,Customer Support,Support Team Lead,44479,0.39718453880299853,Medium
+1170,Customer Support,Support Team Lead,67313,0.39651251380437397,Medium
+624,Finance,Accountant,60843,0.39569436810256425,Medium
+75,Sales,Sales Manager,68330,0.395674178920513,Medium
+79,Customer Support,Support Team Lead,52283,0.39559397784973543,Medium
+151,Sales,Account Manager,66604,0.3953091735909668,Medium
+1371,Operations,Logistics Coordinator,64268,0.3946373113440767,Medium
+404,Engineering,Senior Engineer,97649,0.394302547761162,Medium
+668,Customer Support,Support Team Lead,55806,0.39338420076960934,Medium
+491,Customer Support,Support Team Lead,43687,0.39304862959523434,Medium
+1366,Engineering,Senior Engineer,71621,0.39159949794362575,Medium
+1001,Sales,Account Manager,80560,0.39136771560683725,Medium
+499,Engineering,QA Engineer,113586,0.3905971352691347,Medium
+61,Customer Support,Support Team Lead,45068,0.39056654042338174,Medium
+52,Operations,Logistics Coordinator,58215,0.3905656004054764,Medium
+1016,Sales,Account Manager,58537,0.3905592497528358,Medium
+448,Marketing,Content Specialist,69637,0.390550373218994,Medium
+833,Sales,Account Manager,78344,0.39047984857370016,Medium
+331,Marketing,Marketing Associate,41752,0.390265570760601,Medium
+1073,Engineering,QA Engineer,93618,0.38989577797024244,Medium
+552,Finance,Financial Analyst,50124,0.3895737679938037,Medium
+618,Operations,Operations Manager,42036,0.3895555711079199,Medium
+60,Finance,Accountant,66178,0.38948293193436667,Medium
+1337,Marketing,Content Specialist,69041,0.38934814133099976,Medium
+333,Sales,Account Manager,78785,0.3893237844417792,Medium
+1433,Engineering,Senior Engineer,94351,0.38925718870126663,Medium
+745,Sales,Sales Manager,56150,0.3890773652900385,Medium
+1475,Sales,Account Manager,85903,0.3889229649833879,Medium
+1139,Sales,Sales Manager,73248,0.38879196382588227,Medium
+914,Sales,Sales Executive,49765,0.38862430429954475,Medium
+1454,Operations,Operations Associate,33984,0.38802317883762166,Medium
+1049,Customer Support,Support Associate,34024,0.38790600938326186,Medium
+636,Marketing,Marketing Associate,43425,0.38764010180779873,Medium
+1163,Engineering,Engineering Manager,143116,0.38726865072474015,Medium
+1325,Sales,Sales Executive,46709,0.38724054193097984,Medium
+509,Sales,Account Manager,77702,0.38689496689087244,Medium
+1141,Sales,Sales Manager,54720,0.3868577421524463,Medium
+1386,Sales,Sales Manager,54854,0.38598996838870514,Medium
+187,Human Resources,HR Associate,36680,0.38590814722648226,Medium
+825,Marketing,Marketing Manager,56512,0.38578258788516706,Medium
+1294,Engineering,Engineering Manager,140496,0.3856174183305018,Medium
+765,Operations,Logistics Coordinator,53820,0.3856092614254496,Medium
+1334,Customer Support,Support Associate,33938,0.3855533061186964,Medium
+1253,Customer Support,Support Associate,34738,0.38552281914911035,Medium
+427,Customer Support,Support Associate,41123,0.3854948530563065,Medium
+353,Engineering,Engineering Manager,111117,0.38541684647242214,Medium
+159,Engineering,Engineering Manager,149067,0.38459443803770355,Medium
+897,Finance,Financial Analyst,48923,0.38404152597621616,Medium
+1042,Engineering,Senior Engineer,83875,0.3834328595212245,Medium
+1300,Marketing,Content Specialist,60776,0.3833656791946778,Medium
+383,Human Resources,HR Associate,37846,0.38327195045071466,Medium
+1194,Engineering,Software Engineer,91167,0.38292150778937706,Medium
+248,Human Resources,HR Associate,34378,0.3826500839052991,Medium
+890,Engineering,Software Engineer,60343,0.3824827141239093,Medium
+665,Marketing,Content Specialist,64339,0.3824560853018125,Medium
+3,Operations,Operations Manager,42891,0.3823088512004203,Medium
+177,Customer Support,Support Team Lead,44468,0.3822688259052438,Medium
+1250,Finance,Accountant,57071,0.3822336878847957,Medium
+272,Engineering,Software Engineer,56642,0.3816419612944402,Medium
+495,Operations,Operations Associate,39179,0.38158500087084335,Medium
+1410,Sales,Account Manager,76127,0.38134341076029155,Medium
+345,Customer Support,Support Team Lead,45100,0.38127611377421816,Medium
+440,Operations,Operations Associate,39228,0.380804785438049,Medium
+1079,Marketing,Content Specialist,81418,0.3806555116087129,Medium
+1024,Sales,Account Manager,88993,0.38043661162336667,Medium
+338,Sales,Sales Executive,38700,0.37999301903779253,Medium
+462,Customer Support,Support Team Lead,52650,0.37977134894023806,Medium
+175,Finance,Finance Manager,66942,0.3797159750053324,Medium
+1007,Engineering,Senior Engineer,87606,0.37970805417212367,Medium
+744,Engineering,QA Engineer,107609,0.3796812509869646,Medium
+19,Marketing,Marketing Manager,60487,0.3795341895052774,Medium
+1314,Sales,Sales Executive,40650,0.3791338993370452,Medium
+209,Customer Support,Support Associate,31951,0.3784140786987432,Medium
+566,Human Resources,Recruiter,61247,0.3783343970426644,Medium
+1191,Engineering,Software Engineer,61782,0.3780949636982745,Medium
+1426,Finance,Financial Analyst,46006,0.37808693557799444,Medium
+1382,Operations,Logistics Coordinator,53629,0.37798399626405244,Medium
+538,Human Resources,HR Associate,35638,0.376924253341565,Medium
+322,Human Resources,Recruiter,62037,0.3769040737079703,Medium
+541,Engineering,Senior Engineer,78192,0.37682747144257484,Medium
+663,Sales,Account Manager,65832,0.37645719709635367,Medium
+562,Sales,Sales Manager,69583,0.3763142780411275,Medium
+650,Customer Support,Support Team Lead,49347,0.376125572378201,Medium
+348,Customer Support,Support Team Lead,43054,0.3755546775371939,Medium
+1054,Sales,Account Manager,74839,0.375551992393073,Medium
+223,Engineering,Senior Engineer,99183,0.3754782985347822,Medium
+316,Operations,Operations Manager,53064,0.3754633138493974,Medium
+511,Sales,Sales Manager,58683,0.3748885837308922,Medium
+1264,Finance,Finance Manager,88201,0.37463033868486456,Medium
+87,Operations,Operations Manager,52050,0.37461472791363853,Medium
+422,Customer Support,Support Associate,37632,0.3745698331752783,Medium
+1323,Sales,Sales Manager,56445,0.37440259480672927,Medium
+641,Marketing,Content Specialist,58742,0.3743402760902015,Medium
+664,Marketing,Content Specialist,72419,0.3742675788744926,Medium
+1027,Customer Support,Support Associate,43622,0.3742533019832654,Medium
+482,Marketing,Marketing Associate,34172,0.37421165895053843,Medium
+869,Marketing,Marketing Manager,41841,0.3736371243659498,Medium
+1201,Operations,Logistics Coordinator,75412,0.37353866057798557,Medium
+403,Human Resources,HR Associate,45750,0.3731651728496368,Medium
+97,Finance,Finance Manager,85167,0.3730119259914991,Medium
+639,Finance,Accountant,57172,0.37299599811650114,Medium
+249,Marketing,Content Specialist,72920,0.37298072906728147,Medium
+986,Sales,Sales Executive,38039,0.372427004707414,Medium
+1269,Sales,Sales Executive,40988,0.3723670011447929,Medium
+350,Sales,Account Manager,72281,0.37184580609904555,Medium
+1391,Engineering,QA Engineer,105890,0.3716975761201025,Medium
+516,Engineering,Engineering Manager,120812,0.37160998610695534,Medium
+901,Sales,Sales Manager,55105,0.3710429109487721,Medium
+593,Sales,Account Manager,70748,0.370886688156956,Medium
+243,Finance,Financial Analyst,43599,0.37083377655176986,Medium
+445,Customer Support,Support Team Lead,49689,0.3705703227674536,Medium
+1224,Operations,Logistics Coordinator,52839,0.3704322919207128,Medium
+910,Sales,Sales Executive,49461,0.36997803004105073,Medium
+1187,Sales,Account Manager,69107,0.3694957853493225,Medium
+1307,Sales,Sales Executive,49579,0.36937850316338083,Medium
+625,Operations,Operations Associate,40094,0.36898895789398445,Medium
+714,Operations,Logistics Coordinator,69750,0.36869111276667144,Medium
+1495,Customer Support,Support Team Lead,46368,0.3681676109781128,Medium
+802,Customer Support,Support Associate,33959,0.3681234114916888,Medium
+1463,Customer Support,Support Team Lead,44111,0.3680745293639594,Medium
+574,Finance,Accountant,63092,0.3678732792252444,Medium
+1066,Marketing,Content Specialist,66827,0.36772235268974407,Medium
+212,Sales,Sales Executive,39488,0.36749708040730944,Medium
+1424,Sales,Sales Executive,52489,0.3673444768850329,Medium
+1091,Sales,Sales Executive,47692,0.3672210577289951,Medium
+446,Sales,Sales Manager,54523,0.36699034800382324,Medium
+1072,Marketing,Content Specialist,81404,0.3667720492787724,Medium
+214,Engineering,QA Engineer,104210,0.365949188316233,Medium
+956,Operations,Logistics Coordinator,54808,0.3657851636942531,Medium
+540,Sales,Sales Executive,49165,0.36567473753012447,Medium
+1367,Sales,Sales Executive,40469,0.36544762956126786,Medium
+811,Operations,Logistics Coordinator,66371,0.3654314878488492,Medium
+121,Finance,Finance Manager,77686,0.36508929916304783,Medium
+653,Customer Support,Support Team Lead,45208,0.36457700852898356,Medium
+1097,Finance,Financial Analyst,52083,0.36453252943143805,Medium
+528,Sales,Sales Manager,60778,0.3642812296475473,Medium
+298,Customer Support,Support Team Lead,39200,0.36372813836060286,Medium
+428,Customer Support,Support Team Lead,39694,0.3635223800421889,Medium
+702,Sales,Sales Manager,74312,0.36333241944872596,Medium
+1476,Engineering,Engineering Manager,119070,0.3631155206626451,Medium
+1243,Sales,Sales Executive,49139,0.3625208756407504,Medium
+27,Sales,Sales Manager,57088,0.362514957835714,Medium
+954,Sales,Sales Executive,38337,0.36250358155262247,Medium
+1172,Human Resources,HR Manager,50724,0.36244232434326235,Medium
+697,Operations,Operations Associate,40193,0.3623764624918009,Medium
+1491,Engineering,Software Engineer,54998,0.3620854015221568,Medium
+22,Sales,Account Manager,68173,0.3609367120928407,Medium
+931,Operations,Operations Associate,35891,0.3607377140922086,Medium
+533,Operations,Operations Associate,36928,0.36048390571454875,Medium
+344,Customer Support,Support Team Lead,43074,0.36031141115571536,Medium
+689,Engineering,Engineering Manager,124726,0.35975138442581106,Medium
+761,Operations,Operations Manager,44745,0.35937512032334085,Medium
+859,Sales,Sales Manager,54781,0.3591728177487645,Medium
+437,Finance,Finance Manager,82014,0.3589137349307832,Medium
+521,Engineering,Senior Engineer,76978,0.35890819754763875,Medium
+1336,Customer Support,Support Associate,26449,0.3588438687526769,Medium
+341,Customer Support,Support Team Lead,51194,0.3587379925775607,Medium
+1469,Finance,Financial Analyst,48000,0.3584889387325292,Medium
+1263,Human Resources,Recruiter,62451,0.3584540993242302,Medium
+250,Sales,Account Manager,80132,0.3584133298762474,Medium
+1080,Customer Support,Support Associate,35059,0.3582895646924454,Medium
+750,Customer Support,Support Team Lead,41081,0.3582556444550601,Medium
+1116,Marketing,Marketing Manager,48819,0.3580904603644017,Medium
+839,Finance,Finance Manager,71073,0.3579979208274678,Medium
+983,Operations,Logistics Coordinator,56350,0.35786120722915543,Medium
+20,Sales,Sales Executive,37754,0.3573154339949559,Medium
+638,Sales,Sales Executive,45585,0.35730322419069493,Medium
+346,Customer Support,Support Team Lead,42433,0.3570800269198838,Medium
+1184,Human Resources,HR Associate,39264,0.3565080333445846,Medium
+1281,Sales,Sales Manager,56154,0.3561356870685237,Medium
+820,Engineering,QA Engineer,96061,0.3561042135170098,Medium
+671,Sales,Sales Executive,49203,0.35607411013175244,Medium
+102,Human Resources,HR Associate,38588,0.3560688094722393,Medium
+1143,Sales,Sales Executive,41077,0.35578701634021537,Medium
+731,Finance,Financial Analyst,46839,0.3552361324426539,Medium
+848,Sales,Sales Executive,47023,0.35522776893340297,Medium
+603,Engineering,QA Engineer,100971,0.3552014789727677,Medium
+16,Marketing,Content Specialist,58430,0.35514897886416696,Medium
+192,Engineering,Senior Engineer,90212,0.354976230891584,Medium
+947,Engineering,Engineering Manager,96369,0.3549306712976865,Medium
+69,Operations,Operations Associate,32109,0.3548915784704084,Medium
+834,Sales,Sales Executive,41079,0.3544408905075285,Medium
+484,Engineering,Engineering Manager,154876,0.3544364121748298,Medium
+1324,Engineering,Software Engineer,69513,0.35434344521306094,Medium
+934,Human Resources,HR Associate,34847,0.35402752360039647,Medium
+498,Engineering,QA Engineer,109300,0.35390460054106393,Medium
+1384,Operations,Operations Associate,32636,0.353900677769656,Medium
+585,Engineering,Senior Engineer,84969,0.35386548493336945,Medium
+1051,Customer Support,Support Associate,33384,0.353665494485784,Medium
+1046,Customer Support,Support Team Lead,44920,0.3535731020306096,Medium
+1347,Operations,Operations Manager,43373,0.35341619068975677,Medium
+929,Sales,Account Manager,73251,0.35321161352554814,Medium
+932,Engineering,QA Engineer,107166,0.352772793991113,Medium
+1209,Marketing,Marketing Manager,59078,0.35247851706107236,Medium
+855,Sales,Sales Manager,74639,0.3524558306469637,Medium
+925,Engineering,Engineering Manager,122187,0.3521535450008265,Medium
+736,Finance,Accountant,62650,0.3520927837601697,Medium
+1364,Sales,Sales Executive,40982,0.3517146843978915,Medium
+414,Customer Support,Support Associate,35003,0.3516869045825343,Medium
+1205,Operations,Logistics Coordinator,59373,0.35165542571651137,Medium
+1171,Sales,Sales Executive,41780,0.3513922774003393,Medium
+1317,Sales,Account Manager,65835,0.35108930619338696,Medium
+450,Human Resources,HR Manager,48742,0.3509720696066214,Medium
+24,Operations,Operations Associate,34496,0.350641512545654,Medium
+791,Operations,Operations Manager,39909,0.3500974843481239,Medium
+812,Engineering,Senior Engineer,67416,0.3497220426152525,Medium
+1343,Operations,Logistics Coordinator,57162,0.34932167252014523,Medium
+900,Customer Support,Support Associate,38092,0.34932032106970473,Medium
+760,Operations,Operations Associate,41286,0.34872092582494973,Medium
+1295,Engineering,Engineering Manager,143830,0.3480575420586147,Medium
+282,Finance,Financial Analyst,44837,0.34798784960663504,Medium
+531,Human Resources,HR Manager,53279,0.3479859633793213,Medium
+58,Customer Support,Support Associate,29459,0.34791269926299506,Medium
+1485,Marketing,Content Specialist,56807,0.3476789591443978,Medium
+524,Finance,Financial Analyst,38665,0.3476412620063555,Medium
+283,Sales,Sales Manager,57919,0.3474416475147302,Medium
+999,Operations,Logistics Coordinator,63202,0.34742516166731596,Medium
+927,Operations,Logistics Coordinator,58760,0.34726543802837995,Medium
+1044,Sales,Sales Executive,46775,0.3470594324591515,Medium
+274,Human Resources,HR Associate,40334,0.34674226172562184,Medium
+655,Human Resources,HR Associate,32920,0.34656622556349226,Medium
+317,Marketing,Content Specialist,66879,0.3463768241296271,Medium
+1197,Sales,Account Manager,73851,0.3463641644583213,Medium
+420,Operations,Operations Associate,31950,0.3462862127630945,Medium
+1388,Sales,Account Manager,77571,0.345862330687337,Medium
+1094,Customer Support,Support Team Lead,39342,0.34583623292948545,Medium
+985,Human Resources,HR Manager,46886,0.34559578607630814,Medium
+1267,Operations,Operations Manager,47390,0.34554630996372204,Medium
+389,Sales,Sales Executive,45823,0.345405257658973,Medium
+1273,Customer Support,Support Associate,38511,0.34499924910892155,Medium
+907,Marketing,Content Specialist,60154,0.344554914101758,Medium
+844,Customer Support,Support Team Lead,37582,0.34440062175037456,Medium
+18,Sales,Sales Executive,50887,0.3443433300156411,Medium
+120,Sales,Account Manager,74871,0.3442065195269094,Medium
+238,Customer Support,Support Associate,29447,0.3438348056267397,Medium
+949,Engineering,Software Engineer,62324,0.34365135823273973,Medium
+856,Human Resources,Recruiter,60816,0.3436071071868486,Medium
+466,Operations,Operations Manager,52692,0.34329872474249595,Medium
+276,Sales,Sales Manager,75795,0.34316750454525424,Medium
+587,Marketing,Marketing Associate,37594,0.3431607969784899,Medium
+784,Engineering,QA Engineer,102419,0.3429261892071469,Medium
+1215,Customer Support,Support Team Lead,54706,0.34283475965301763,Medium
+708,Engineering,Software Engineer,66090,0.3427691287312977,Medium
+109,Finance,Finance Manager,84131,0.3426797351273012,Medium
+1497,Engineering,Engineering Manager,145081,0.34253917803006795,Medium
+742,Sales,Account Manager,66672,0.34243753448958913,Medium
+180,Customer Support,Support Associate,35250,0.3420644185187078,Medium
+382,Engineering,QA Engineer,107233,0.3413028608703331,Medium
+862,Customer Support,Support Team Lead,51186,0.34128074301248995,Medium
+557,Customer Support,Support Associate,33677,0.340962249826636,Medium
+1305,Sales,Sales Executive,45195,0.3408826308050787,Medium
+23,Customer Support,Support Team Lead,56796,0.34059606970461137,Medium
+970,Human Resources,Recruiter,64802,0.34041158012481915,Medium
+596,Engineering,QA Engineer,102937,0.3403977987720712,Medium
+1262,Customer Support,Support Team Lead,43565,0.34005648736666183,Medium
+1443,Operations,Logistics Coordinator,53617,0.33991887870377807,Medium
+1493,Sales,Sales Executive,41007,0.33990091796967653,Medium
+1373,Operations,Logistics Coordinator,65151,0.33989645777780514,Medium
+380,Finance,Finance Manager,67424,0.3397507005333418,Medium
+367,Engineering,Engineering Manager,136561,0.3395088814464262,Medium
+941,Marketing,Marketing Associate,37805,0.33949943801433674,Medium
+1420,Sales,Sales Manager,60305,0.3391720787785385,Medium
+1233,Human Resources,HR Associate,37284,0.33905287414771584,Medium
+980,Customer Support,Support Associate,29877,0.33904952389188947,Medium
+544,Human Resources,HR Manager,40088,0.3389998335782586,Medium
+673,Operations,Logistics Coordinator,54560,0.3386663320478124,Medium
+197,Customer Support,Support Associate,34533,0.33814973249143765,Medium
+532,Sales,Account Manager,66866,0.3380466864364807,Medium
+230,Customer Support,Support Associate,34751,0.33802804626645794,Medium
+11,Customer Support,Support Associate,31794,0.33792923724612095,Medium
+957,Sales,Sales Executive,51810,0.3374883773280114,Medium
+535,Engineering,Software Engineer,67487,0.337438767286764,Medium
+1326,Engineering,QA Engineer,117793,0.337307566861152,Medium
+385,Sales,Sales Manager,55466,0.3371344161387612,Medium
+334,Sales,Sales Executive,39545,0.3369471937167962,Medium
+661,Human Resources,Recruiter,65367,0.3367701719879364,Medium
+253,Finance,Accountant,71809,0.336370823440221,Medium
+560,Operations,Operations Manager,47874,0.3362169575750035,Medium
+620,Marketing,Marketing Manager,65275,0.3361314292393348,Medium
+1156,Finance,Finance Manager,79412,0.33577501552206085,Medium
+1257,Sales,Sales Executive,42931,0.335772890696536,Medium
+1161,Sales,Sales Executive,43959,0.3356509368104461,Medium
+575,Sales,Sales Manager,54179,0.3355572963284593,Medium
+113,Operations,Logistics Coordinator,72658,0.3352658367578713,Medium
+1026,Operations,Operations Manager,61098,0.3352259310361287,Medium
+59,Customer Support,Support Associate,32862,0.33493631569892224,Medium
+735,Marketing,Content Specialist,71089,0.3348747580097318,Medium
+182,Engineering,Software Engineer,57550,0.3348510995721538,Medium
+1225,Sales,Sales Executive,46701,0.33474912758057673,Medium
+501,Marketing,Content Specialist,65656,0.33457801079681143,Medium
+846,Marketing,Marketing Associate,42517,0.3344650063878349,Medium
+468,Operations,Operations Manager,51778,0.3338870828781492,Medium
+657,Engineering,Engineering Manager,133895,0.33349283649060235,Medium
+621,Operations,Logistics Coordinator,48392,0.33325347641526964,Medium
+1481,Marketing,Marketing Associate,41481,0.3329826226132625,Medium
+592,Sales,Sales Executive,40404,0.3328463627378247,Medium
+288,Operations,Operations Associate,33067,0.33275150422027316,Medium
+117,Human Resources,Recruiter,58726,0.33245759633317884,Medium
+1105,Customer Support,Support Team Lead,38921,0.33237322658372104,Medium
+1025,Engineering,Engineering Manager,138385,0.33219612498879875,Medium
+315,Human Resources,HR Manager,47725,0.33202450817457874,Medium
+400,Marketing,Marketing Associate,43166,0.33166605586735787,Medium
+635,Engineering,Software Engineer,66139,0.3315503206577556,Medium
+1423,Engineering,QA Engineer,84988,0.3312375793090042,Medium
+1235,Engineering,Engineering Manager,125964,0.33090447356490105,Medium
+1121,Operations,Operations Associate,36347,0.3305827562044646,Medium
+93,Sales,Account Manager,77995,0.3302242764284989,Medium
+546,Engineering,QA Engineer,117069,0.3300386078805485,Medium
+644,Human Resources,HR Manager,44632,0.3298532075842694,Medium
+1,Engineering,Software Engineer,62116,0.32967346956844173,Medium
+469,Operations,Logistics Coordinator,64945,0.3296234733705958,Medium
+1193,Customer Support,Support Associate,32538,0.3287157576700163,Medium
+622,Finance,Financial Analyst,40808,0.3286370280066968,Medium
+1290,Sales,Sales Executive,51912,0.32857289155993574,Medium
+527,Operations,Logistics Coordinator,55965,0.3285055523544715,Medium
+1403,Customer Support,Support Team Lead,44870,0.3282391957597482,Medium
+1033,Customer Support,Support Associate,34640,0.3280639754385383,Medium
+968,Customer Support,Support Associate,30876,0.3280251142460649,Medium
+892,Customer Support,Support Associate,27777,0.32782964623790845,Medium
+1223,Operations,Operations Manager,52138,0.3273886264099575,Medium
+774,Human Resources,HR Manager,42853,0.32732446148224986,Medium
+115,Operations,Operations Manager,45117,0.3272194353271058,Medium
+95,Sales,Sales Executive,49102,0.3272184215553358,Medium
+106,Marketing,Content Specialist,65778,0.3268977672946736,Medium
+78,Sales,Account Manager,101471,0.32668908837279403,Medium
+1214,Customer Support,Support Associate,27092,0.326283916994772,Medium
+733,Finance,Finance Manager,82282,0.32621959590832256,Medium
+1165,Engineering,Software Engineer,71039,0.3260877320413259,Medium
+1266,Sales,Sales Executive,37465,0.32579606098869185,Medium
+245,Operations,Operations Manager,58303,0.3257675203048231,Medium
+1316,Sales,Account Manager,65443,0.3254500635526544,Medium
+960,Marketing,Content Specialist,64955,0.32526674984863413,Medium
+1226,Sales,Sales Manager,59082,0.3248943867326733,Medium
+505,Engineering,Software Engineer,55897,0.32483882965757155,Medium
+1271,Engineering,Engineering Manager,123129,0.32468150150941727,Medium
+1258,Sales,Account Manager,69790,0.3246805170024692,Medium
+675,Customer Support,Support Team Lead,43147,0.32448689736988495,Medium
+695,Engineering,QA Engineer,106179,0.3243229842563671,Medium
+876,Sales,Sales Manager,65101,0.32428477584318044,Medium
+1270,Sales,Account Manager,75012,0.3238295354371989,Medium
+967,Engineering,Senior Engineer,99404,0.32314861052645666,Medium
+946,Customer Support,Support Associate,36082,0.32312164411413286,Medium
+1477,Operations,Operations Manager,45525,0.3231158152635127,Medium
+830,Human Resources,HR Manager,70860,0.3228111951922935,Medium
+847,Customer Support,Support Team Lead,40937,0.3227309268408271,Medium
+1383,Operations,Logistics Coordinator,62838,0.32254479699910676,Medium
+1111,Finance,Finance Manager,72474,0.32248850066760154,Medium
+7,Engineering,Senior Engineer,81925,0.32222182884141226,Medium
+1062,Customer Support,Support Associate,28096,0.3221617390606907,Medium
+955,Finance,Finance Manager,75081,0.3220459706940593,Medium
+387,Operations,Logistics Coordinator,64819,0.321892928426035,Medium
+584,Customer Support,Support Associate,40222,0.32150128793115446,Medium
+1006,Sales,Account Manager,63740,0.3213290861734729,Medium
+1499,Marketing,Marketing Associate,35572,0.3211548372621694,Medium
+826,Operations,Logistics Coordinator,64532,0.3209705603285285,Medium
+481,Sales,Sales Manager,78281,0.3205600418673832,Medium
+31,Marketing,Marketing Associate,44765,0.3202231312438456,Medium
+1160,Operations,Logistics Coordinator,58531,0.32003373189196666,Medium
+313,Marketing,Content Specialist,70950,0.31972656324978144,Medium
+1140,Engineering,Engineering Manager,157152,0.31965189152849793,Medium
+1357,Engineering,Senior Engineer,80229,0.3196491720023998,Medium
+1490,Engineering,Senior Engineer,76916,0.3196425112937814,Medium
+608,Customer Support,Support Team Lead,48492,0.3194532687089231,Medium
+614,Operations,Logistics Coordinator,56898,0.31931318291693733,Medium
+1199,Sales,Sales Manager,50468,0.3191277940241204,Medium
+1015,Engineering,Engineering Manager,136233,0.3190558064397752,Medium
+431,Marketing,Marketing Manager,65586,0.31903281315000914,Medium
+455,Engineering,QA Engineer,96152,0.319027095115717,Medium
+394,Sales,Account Manager,92470,0.31871078764621164,Medium
+1279,Marketing,Content Specialist,65871,0.31848240733822036,Medium
+778,Sales,Account Manager,96549,0.31837443661381604,Medium
+1362,Operations,Operations Manager,44159,0.3180502881640342,Medium
+1052,Finance,Finance Manager,78275,0.31785931352707997,Medium
+1458,Marketing,Marketing Associate,43255,0.31777277105952567,Medium
+993,Operations,Operations Associate,37057,0.3174334570680718,Medium
+196,Sales,Account Manager,73406,0.31738520802681686,Medium
+989,Engineering,Senior Engineer,87721,0.3172130376169476,Medium
+1421,Customer Support,Support Team Lead,46546,0.3170503096988229,Medium
+1060,Operations,Operations Associate,45369,0.3170044105668743,Medium
+572,Finance,Finance Manager,79010,0.31698698270322667,Medium
+963,Engineering,Senior Engineer,83509,0.3168454630198019,Medium
+1220,Sales,Account Manager,68858,0.3167370300138534,Medium
+879,Finance,Finance Manager,72903,0.31665371772405415,Medium
+860,Customer Support,Support Associate,31974,0.3159148559277286,Medium
+474,Customer Support,Support Team Lead,51334,0.31547815803522267,Medium
+1087,Operations,Operations Manager,49384,0.3153587349964433,Medium
+726,Customer Support,Support Team Lead,44090,0.3153066152183755,Medium
+905,Engineering,Senior Engineer,77620,0.3152975380093663,Medium
+898,Engineering,Senior Engineer,90017,0.3151416909669131,Medium
+1119,Finance,Accountant,71631,0.3150066931676609,Medium
+804,Operations,Logistics Coordinator,55847,0.31489167776595334,Medium
+1031,Sales,Sales Executive,39044,0.31482976787243955,Medium
+790,Marketing,Marketing Associate,38407,0.31480100809813727,Medium
+235,Operations,Operations Associate,36763,0.314662996964596,Medium
+1234,Customer Support,Support Associate,29577,0.3144082610098267,Medium
+938,Engineering,Software Engineer,79348,0.3142313698848601,Medium
+185,Operations,Logistics Coordinator,60941,0.3140269075834746,Medium
+1291,Marketing,Marketing Associate,44586,0.3138806194060678,Medium
+198,Customer Support,Support Associate,34636,0.3137254672712187,Medium
+978,Sales,Sales Executive,34810,0.31355311642698225,Medium
+303,Customer Support,Support Associate,37517,0.31274088968016966,Medium
+1238,Engineering,Senior Engineer,100092,0.31254794236113737,Medium
+926,Engineering,Senior Engineer,79758,0.31253358461067765,Medium
+442,Sales,Sales Manager,73842,0.31252823921005823,Medium
+381,Engineering,Software Engineer,67747,0.31248315388525216,Medium
+680,Sales,Account Manager,70773,0.3124130867664095,Medium
+700,Sales,Sales Manager,56673,0.3124126615289429,Medium
+595,Engineering,Engineering Manager,111525,0.3120774455260037,Medium
+1242,Customer Support,Support Associate,37550,0.3116408501978192,Medium
+598,Customer Support,Support Associate,39768,0.31164042811868997,Medium
+140,Human Resources,HR Associate,39703,0.3114587243574187,Medium
+1438,Human Resources,Recruiter,77426,0.3114019764557784,Medium
+281,Engineering,Engineering Manager,126086,0.31032952264572616,Medium
+732,Finance,Financial Analyst,49920,0.3100561162516647,Medium
+1167,Customer Support,Support Associate,27504,0.30985896777438104,Medium
+565,Operations,Operations Manager,45752,0.30949453510375086,Medium
+103,Operations,Operations Manager,52152,0.309450660222292,Medium
+270,Customer Support,Support Team Lead,49351,0.30942552703274945,Medium
+1418,Customer Support,Support Team Lead,33125,0.3092036603663516,Medium
+992,Customer Support,Support Associate,35995,0.30857467410533834,Medium
+564,Sales,Sales Manager,75315,0.3085665556125306,Medium
+937,Operations,Operations Associate,38060,0.3083927720614999,Medium
+854,Operations,Operations Associate,39384,0.308248997230282,Medium
+1126,Finance,Financial Analyst,54105,0.30823090728560976,Medium
+311,Engineering,Senior Engineer,92667,0.308168578016632,Medium
+712,Engineering,Engineering Manager,133214,0.30752529618029567,Medium
+551,Sales,Sales Executive,43161,0.30740219697877214,Medium
+365,Sales,Sales Executive,32232,0.30666693119728233,Medium
+401,Engineering,Engineering Manager,121975,0.30585842580901323,Medium
+571,Operations,Operations Associate,64216,0.3058337400204697,Medium
+467,Human Resources,HR Associate,30001,0.30558727991299167,Medium
+28,Sales,Sales Manager,65680,0.3054330224211626,Medium
+1328,Sales,Account Manager,66831,0.3054083651251722,Medium
+259,Sales,Account Manager,77270,0.3049165510523272,Medium
+138,Sales,Sales Executive,33222,0.3045466142963465,Medium
+402,Operations,Operations Associate,36874,0.3044677487868936,Medium
+891,Engineering,Engineering Manager,138539,0.3039944989658224,Medium
+152,Sales,Sales Manager,58570,0.3038792637690401,Medium
+885,Human Resources,HR Associate,50523,0.3038749507412017,Medium
+1104,Sales,Account Manager,73242,0.3037922207280278,Medium
+1359,Engineering,QA Engineer,96161,0.3035688688797958,Medium
+739,Engineering,Software Engineer,71530,0.3034695031378755,Medium
+1108,Finance,Finance Manager,85359,0.3033312192435085,Medium
+924,Engineering,QA Engineer,81170,0.3031385039439411,Medium
+1479,Human Resources,HR Manager,47686,0.30306424562036266,Medium
+751,Marketing,Marketing Manager,52583,0.30216872371258013,Medium
+948,Engineering,Senior Engineer,73705,0.30206146309436716,Medium
+1131,Customer Support,Support Team Lead,45531,0.3019144259367899,Medium
+222,Marketing,Content Specialist,66050,0.3017732249735585,Medium
+459,Engineering,Senior Engineer,84963,0.3016767100313418,Medium
+1276,Sales,Account Manager,85263,0.30128853793639643,Medium
+1011,Engineering,Engineering Manager,117163,0.3012709914644136,Medium
+503,Engineering,Software Engineer,62218,0.3011439074674632,Medium
+814,Operations,Logistics Coordinator,56329,0.3009541828212839,Medium
+163,Sales,Sales Manager,71845,0.3006066062514162,Medium
+1239,Marketing,Content Specialist,67393,0.30053985764318064,Medium
+704,Engineering,Engineering Manager,135772,0.30021936176371117,Medium
+1188,Operations,Logistics Coordinator,58766,0.30007365633680594,Medium
+1444,Engineering,Engineering Manager,151572,0.2999979192751809,Low
+906,Operations,Operations Associate,31311,0.29980336317995493,Low
+224,Operations,Operations Associate,32697,0.2997060700833094,Low
+1177,Sales,Account Manager,64848,0.29941512355463823,Low
+886,Engineering,Senior Engineer,91073,0.2988235703522999,Low
+53,Finance,Accountant,62827,0.29881488085006125,Low
+416,Customer Support,Support Team Lead,45357,0.29875264969373916,Low
+942,Engineering,QA Engineer,99840,0.2985415499339626,Low
+112,Customer Support,Support Associate,33025,0.29839155626775543,Low
+241,Sales,Sales Executive,35809,0.2981216113438125,Low
+319,Finance,Accountant,62239,0.2979841511378995,Low
+458,Engineering,QA Engineer,118919,0.2974428959346687,Low
+1464,Finance,Accountant,53785,0.2965667458182284,Low
+1048,Engineering,Software Engineer,63250,0.29646673711440585,Low
+1102,Sales,Account Manager,76962,0.2961609876802373,Low
+347,Operations,Operations Associate,38711,0.29612189279553564,Low
+658,Sales,Account Manager,75275,0.2959500695627805,Low
+627,Sales,Sales Manager,66514,0.2958033751593834,Low
+136,Operations,Operations Manager,56292,0.2957635144088379,Low
+838,Sales,Sales Executive,43783,0.2956408464903744,Low
+306,Finance,Financial Analyst,54824,0.29523525144885093,Low
+1169,Engineering,Engineering Manager,144288,0.2951673433984947,Low
+1312,Engineering,Software Engineer,77381,0.29501998784980804,Low
+1344,Engineering,Engineering Manager,136986,0.29425236603377525,Low
+1095,Sales,Account Manager,78037,0.29398849734990334,Low
+98,Sales,Sales Executive,36475,0.29396495964582925,Low
+857,Operations,Operations Manager,44162,0.2934680721902933,Low
+116,Engineering,QA Engineer,93986,0.2934447959054624,Low
+41,Operations,Logistics Coordinator,68986,0.2931280116991796,Low
+832,Marketing,Content Specialist,67321,0.29199671870336713,Low
+1247,Sales,Account Manager,67877,0.29169244397626387,Low
+996,Operations,Operations Manager,48096,0.2915025384371122,Low
+842,Customer Support,Support Associate,31034,0.29110793650847444,Low
+147,Sales,Sales Executive,43907,0.29053854732413226,Low
+872,Customer Support,Support Associate,41434,0.29036535136605957,Low
+831,Human Resources,HR Manager,48686,0.2899922876566223,Low
+647,Engineering,Senior Engineer,101187,0.28971138252553363,Low
+1181,Engineering,QA Engineer,103324,0.2896202588016486,Low
+994,Engineering,Engineering Manager,117657,0.2894084658552533,Low
+828,Operations,Operations Associate,30922,0.28916177491814904,Low
+418,Engineering,QA Engineer,98786,0.2889053174761269,Low
+777,Engineering,Senior Engineer,112987,0.28889118733879454,Low
+1228,Sales,Account Manager,71760,0.2885759555727772,Low
+775,Sales,Account Manager,71160,0.28847809203979,Low
+110,Sales,Account Manager,82269,0.2880653500793344,Low
+988,Marketing,Content Specialist,75773,0.2878963217300231,Low
+124,Sales,Sales Executive,44558,0.2877806831872288,Low
+1461,Customer Support,Support Associate,34366,0.2876909044592724,Low
+1311,Customer Support,Support Associate,36816,0.2876779136154717,Low
+764,Engineering,QA Engineer,112251,0.28760990259945923,Low
+1147,Human Resources,Recruiter,67800,0.2875775195291013,Low
+1348,Engineering,Engineering Manager,118470,0.28753948682495284,Low
+1004,Human Resources,HR Associate,46231,0.2872859004714753,Low
+426,Operations,Operations Manager,48905,0.2867527011151168,Low
+801,Engineering,Software Engineer,81526,0.2866760083057631,Low
+1204,Operations,Operations Manager,45825,0.28613480605445585,Low
+444,Engineering,Senior Engineer,81249,0.28609259774509255,Low
+676,Engineering,Engineering Manager,118560,0.2860656873173284,Low
+1265,Marketing,Content Specialist,74040,0.2859846370697912,Low
+326,Operations,Operations Manager,47060,0.28577757137324983,Low
+787,Finance,Finance Manager,99612,0.28553551059128857,Low
+47,Engineering,QA Engineer,134193,0.28449422563319804,Low
+1321,Marketing,Marketing Associate,33175,0.2844739414640564,Low
+713,Engineering,Engineering Manager,140304,0.2841585605808216,Low
+995,Engineering,QA Engineer,154393,0.28408108936790066,Low
+64,Sales,Sales Executive,48875,0.28396010083131445,Low
+984,Customer Support,Support Associate,30969,0.28383861906261404,Low
+86,Customer Support,Support Associate,34960,0.283584481765404,Low
+1411,Human Resources,HR Associate,40985,0.2831860145478578,Low
+1058,Customer Support,Support Team Lead,53893,0.2831657399943358,Low
+340,Engineering,Senior Engineer,85311,0.28308854128513466,Low
+424,Sales,Account Manager,76555,0.2830766332201119,Low
+1221,Engineering,QA Engineer,117017,0.28299315094400584,Low
+66,Engineering,Senior Engineer,77617,0.28271422971674187,Low
+582,Sales,Sales Manager,54793,0.28256511888476626,Low
+798,Sales,Sales Executive,58317,0.2824810582005983,Low
+1144,Human Resources,HR Associate,33345,0.28205505677772924,Low
+479,Operations,Operations Associate,40184,0.2815756499709248,Low
+515,Sales,Account Manager,72226,0.28130508418068145,Low
+183,Marketing,Marketing Manager,53356,0.281259458102832,Low
+1249,Customer Support,Support Team Lead,37109,0.2803804360978718,Low
+883,Engineering,QA Engineer,103624,0.2799221293589847,Low
+1085,Sales,Account Manager,86294,0.279809374422997,Low
+880,Sales,Sales Executive,34220,0.2797028928005862,Low
+917,Engineering,Senior Engineer,108769,0.27966398823937816,Low
+878,Marketing,Marketing Associate,54603,0.2792913192112289,Low
+105,Engineering,QA Engineer,113139,0.27887917691371505,Low
+576,Operations,Operations Associate,44459,0.27853793253486386,Low
+1277,Sales,Account Manager,68434,0.2784355590484024,Low
+781,Customer Support,Support Associate,32077,0.2781821350964918,Low
+263,Sales,Account Manager,80616,0.2776849427941862,Low
+894,Operations,Logistics Coordinator,67336,0.2769292880675676,Low
+1358,Sales,Account Manager,83280,0.2769114987870996,Low
+1005,Customer Support,Support Associate,36115,0.2768836912241292,Low
+364,Engineering,Software Engineer,78613,0.27554400654379974,Low
+1275,Sales,Sales Executive,43472,0.2754495149451556,Low
+768,Human Resources,HR Manager,57642,0.27490965367968906,Low
+1068,Engineering,QA Engineer,101045,0.2748336871600692,Low
+519,Sales,Sales Executive,37541,0.2746316482570576,Low
+1063,Operations,Operations Manager,44015,0.2746146930910751,Low
+373,Finance,Accountant,63342,0.2744783174453202,Low
+35,Finance,Finance Manager,92053,0.27406044399109813,Low
+1414,Marketing,Content Specialist,86329,0.27397955732985435,Low
+1029,Operations,Operations Associate,37586,0.2739714871090382,Low
+215,Engineering,Engineering Manager,123373,0.27368274235464085,Low
+1120,Sales,Account Manager,68443,0.2734393046282919,Low
+268,Marketing,Marketing Associate,36579,0.2720891193378561,Low
+1009,Sales,Account Manager,105162,0.271552121758029,Low
+1351,Sales,Account Manager,67782,0.2713755703623848,Low
+613,Engineering,Engineering Manager,124189,0.27107619485119283,Low
+1402,Operations,Logistics Coordinator,76548,0.2707953788611514,Low
+843,Operations,Operations Manager,42212,0.2707829394230722,Low
+1153,Operations,Logistics Coordinator,77548,0.27073820618200767,Low
+39,Human Resources,HR Manager,51084,0.27071959893289943,Low
+542,Engineering,Engineering Manager,132040,0.27043673924850137,Low
+1002,Engineering,Senior Engineer,71182,0.27038011928602673,Low
+149,Finance,Accountant,78843,0.27036381490574707,Low
+904,Human Resources,HR Associate,39176,0.2701631231845681,Low
+1115,Sales,Sales Manager,55517,0.2695966343604616,Low
+696,Customer Support,Support Associate,31511,0.2695820250555266,Low
+1356,Human Resources,Recruiter,86975,0.269515100507636,Low
+1284,Engineering,Software Engineer,58804,0.2690662520158451,Low
+1478,Customer Support,Support Team Lead,59311,0.2688534540026454,Low
+534,Finance,Finance Manager,84130,0.26848611901304137,Low
+1377,Sales,Account Manager,102786,0.26826030566767645,Low
+131,Engineering,Engineering Manager,123389,0.26808759286448236,Low
+1482,Finance,Accountant,64844,0.2674477300931162,Low
+1335,Engineering,Senior Engineer,120157,0.2673377398493847,Low
+148,Engineering,Software Engineer,64906,0.26684722200286504,Low
+1448,Human Resources,HR Associate,37559,0.26680766701635045,Low
+173,Sales,Sales Manager,60347,0.2661095625729164,Low
+1468,Sales,Sales Executive,36244,0.2658824931746984,Low
+150,Engineering,QA Engineer,121409,0.2651798396992183,Low
+829,Finance,Finance Manager,74516,0.26501245902526144,Low
+1125,Operations,Operations Manager,61449,0.2645264139226758,Low
+1394,Sales,Sales Manager,66866,0.2644145067198516,Low
+409,Customer Support,Support Associate,33124,0.2644004913205266,Low
+895,Engineering,Engineering Manager,129991,0.26437726043991316,Low
+239,Operations,Operations Manager,44524,0.2636603575104984,Low
+788,Operations,Operations Manager,47453,0.2634164334897316,Low
+1439,Engineering,Engineering Manager,154053,0.26338201011028456,Low
+1407,Engineering,Software Engineer,63239,0.26326634323714143,Low
+302,Customer Support,Support Associate,30577,0.2629382116772918,Low
+184,Engineering,QA Engineer,136461,0.26276904990915534,Low
+1245,Operations,Operations Associate,33951,0.2626369558361794,Low
+132,Finance,Financial Analyst,43804,0.2625610548866777,Low
+1380,Sales,Account Manager,77547,0.26196215031489495,Low
+1319,Sales,Sales Executive,41888,0.2616497783314994,Low
+690,Finance,Finance Manager,74444,0.2613116887617205,Low
+358,Operations,Operations Associate,36824,0.2612721587743223,Low
+1449,Customer Support,Support Associate,45498,0.26120045393175073,Low
+1034,Marketing,Marketing Associate,32698,0.2605013677178196,Low
+443,Sales,Sales Executive,51986,0.259818903689531,Low
+1484,Engineering,Senior Engineer,89105,0.259776715122602,Low
+681,Finance,Financial Analyst,62720,0.2597236746928666,Low
+633,Engineering,Senior Engineer,75185,0.25969824405920366,Low
+684,Sales,Sales Manager,95509,0.25904027272459,Low
+616,Sales,Account Manager,91633,0.25894696116769894,Low
+307,Sales,Account Manager,75674,0.25894218984436623,Low
+918,Finance,Financial Analyst,53835,0.2586764429148464,Low
+305,Engineering,Software Engineer,74004,0.2586600931121938,Low
+363,Operations,Operations Associate,42460,0.2583515756706836,Low
+1157,Engineering,QA Engineer,118439,0.2582840611349945,Low
+90,Sales,Sales Executive,43460,0.25787021186290715,Low
+497,Sales,Account Manager,66885,0.2578405313255072,Low
+982,Human Resources,HR Manager,51388,0.25707083429516425,Low
+851,Human Resources,HR Associate,34944,0.2567410871516975,Low
+1082,Sales,Account Manager,80581,0.2566998754510055,Low
+514,Finance,Finance Manager,82405,0.25629509959364255,Low
+1114,Finance,Accountant,68998,0.2560203712829106,Low
+81,Engineering,Engineering Manager,136971,0.25556664714692995,Low
+329,Engineering,Engineering Manager,181176,0.2547456459125938,Low
+26,Human Resources,HR Associate,55328,0.2540041739424433,Low
+1103,Sales,Account Manager,67660,0.2539998871570576,Low
+376,Operations,Logistics Coordinator,65628,0.2536104479398032,Low
+25,Customer Support,Support Associate,33863,0.25359965955621805,Low
+972,Sales,Sales Executive,46564,0.25356329155876683,Low
+642,Engineering,Engineering Manager,109465,0.25189565662850827,Low
+691,Sales,Account Manager,88151,0.25176917036943053,Low
+853,Customer Support,Support Associate,48893,0.2503242539490856,Low
+797,Operations,Operations Manager,48145,0.25026058438000826,Low
+1130,Sales,Account Manager,121733,0.2500353336526883,Low
+359,Marketing,Marketing Associate,44308,0.2492113761718025,Low
+1208,Finance,Financial Analyst,53955,0.24860490658167167,Low
+398,Finance,Financial Analyst,45265,0.24807419249691562,Low
+1450,Customer Support,Support Associate,30752,0.2477228745765782,Low
+1268,Sales,Sales Executive,48746,0.2476904899179635,Low
+1174,Sales,Sales Manager,70505,0.2474609254325135,Low
+430,Customer Support,Support Associate,53299,0.24683569556859297,Low
+952,Marketing,Content Specialist,65502,0.24682308570007735,Low
+1061,Operations,Logistics Coordinator,80033,0.24605576767804968,Low
+155,Engineering,Senior Engineer,80639,0.24478512890827972,Low
+119,Operations,Operations Associate,31687,0.24474323431522094,Low
+578,Engineering,Engineering Manager,110282,0.24350987862978088,Low
+659,Finance,Financial Analyst,57701,0.2429866763982299,Low
+672,Engineering,QA Engineer,127285,0.2429815869095737,Low
+126,Engineering,Engineering Manager,121054,0.24290132058551445,Low
+861,Sales,Account Manager,90614,0.24251018784063413,Low
+1500,Sales,Account Manager,90615,0.24213210474061578,Low
+645,Finance,Financial Analyst,45493,0.2420465834993358,Low
+609,Customer Support,Support Associate,29728,0.24167337826201185,Low
+264,Customer Support,Support Associate,39666,0.24137409938192889,Low
+518,Marketing,Marketing Manager,70967,0.24095797022816526,Low
+1071,Engineering,Software Engineer,76406,0.24087211074157697,Low
+1398,Engineering,Software Engineer,61905,0.24055928267889318,Low
+868,Sales,Account Manager,71765,0.24047705978429046,Low
+472,Engineering,QA Engineer,110562,0.24043546515240588,Low
+631,Sales,Account Manager,80220,0.24024127145487634,Low
+882,Engineering,QA Engineer,132331,0.2380330311032346,Low
+977,Sales,Sales Executive,53330,0.23732295503259085,Low
+208,Customer Support,Support Associate,30659,0.23715028349806777,Low
+747,Sales,Account Manager,72411,0.2367078263533609,Low
+17,Marketing,Content Specialist,73810,0.23666620792703716,Low
+284,Marketing,Marketing Manager,61733,0.2360435604907003,Low
+979,Operations,Logistics Coordinator,73314,0.23604161350256778,Low
+1183,Engineering,Engineering Manager,152182,0.23547402238357193,Low
+840,Customer Support,Support Team Lead,58337,0.23504309176419175,Low
+476,Finance,Accountant,61268,0.23501884434776335,Low
+589,Operations,Operations Associate,42938,0.23496603209752215,Low
+32,Sales,Sales Executive,44525,0.23399412970696726,Low
+67,Engineering,Senior Engineer,74098,0.2334109465459484,Low
+1028,Sales,Account Manager,87223,0.23332972184101355,Low
+143,Sales,Sales Executive,52830,0.23291969129292303,Low
+1137,Human Resources,Recruiter,113552,0.23092368065513819,Low
+310,Marketing,Content Specialist,71663,0.2303618124377141,Low
+51,Engineering,Engineering Manager,156694,0.22928636033884137,Low
+721,Finance,Finance Manager,95140,0.22900854103239543,Low
+321,Customer Support,Support Associate,32026,0.22843897608016092,Low
+441,Marketing,Content Specialist,82059,0.2279400212450445,Low
+899,Sales,Account Manager,86949,0.22748313592918193,Low
+1155,Operations,Operations Associate,32792,0.2274229654463187,Low
+1389,Operations,Operations Manager,45857,0.22721524493771034,Low
+536,Human Resources,HR Associate,51383,0.22670000080619096,Low
+1390,Engineering,QA Engineer,97925,0.22658784135776225,Low
+354,Marketing,Marketing Manager,65058,0.22648502963209324,Low
+91,Customer Support,Support Associate,43475,0.22645194455668025,Low
+1487,Finance,Accountant,76864,0.22466666798942664,Low
+1496,Finance,Financial Analyst,63620,0.22378099240011282,Low
+464,Finance,Financial Analyst,64168,0.22362708630421524,Low
+1393,Human Resources,HR Associate,48691,0.22348866271678,Low
+226,Sales,Sales Manager,57051,0.2231073144912818,Low
+195,Engineering,Engineering Manager,156258,0.22240934314482974,Low
+554,Operations,Logistics Coordinator,68813,0.2207265700230429,Low
+755,Human Resources,Recruiter,61235,0.22015193360402135,Low
+612,Human Resources,HR Associate,48199,0.22004892574365797,Low
+134,Finance,Finance Manager,77597,0.21976543519125774,Low
+107,Finance,Financial Analyst,54046,0.21929004682836015,Low
+425,Finance,Finance Manager,77312,0.21910877056854133,Low
+1457,Sales,Sales Executive,52394,0.21896023164928588,Low
+255,Sales,Account Manager,91302,0.21883364462710636,Low
+800,Sales,Sales Manager,48085,0.21841707457650045,Low
+141,Sales,Account Manager,82537,0.21563249318926164,Low
+85,Sales,Sales Executive,53885,0.21559378430051684,Low
+737,Marketing,Content Specialist,68680,0.21553924023658458,Low
+279,Operations,Operations Manager,54081,0.21483259434890514,Low
+439,Operations,Logistics Coordinator,65840,0.2145060364571692,Low
+1032,Customer Support,Support Associate,39144,0.21384766833478125,Low
+1244,Customer Support,Support Team Lead,63939,0.2135573502148479,Low
+773,Engineering,Senior Engineer,97750,0.2135427030129102,Low
+301,Marketing,Content Specialist,72065,0.21336919006608138,Low
+915,Finance,Financial Analyst,59026,0.21301731955038394,Low
+434,Engineering,Software Engineer,64842,0.21268896514411711,Low
+651,Sales,Sales Manager,83252,0.21176424000540642,Low
+723,Operations,Operations Manager,48878,0.21112067232026605,Low
+1387,Customer Support,Support Associate,44399,0.2099082027306481,Low
+669,Marketing,Marketing Associate,56736,0.2097315158342839,Low
+591,Customer Support,Support Associate,50924,0.20942742862809435,Low
+4,Finance,Financial Analyst,66549,0.20834386829007298,Low
+56,Customer Support,Support Team Lead,52484,0.20735415748369565,Low
+871,Marketing,Content Specialist,69402,0.20642961970991322,Low
+701,Finance,Accountant,85461,0.20549997310153198,Low
+1361,Engineering,QA Engineer,112771,0.20533480000349724,Low
+1176,Engineering,Senior Engineer,78325,0.20361102863441405,Low
+1465,Finance,Accountant,74330,0.20303975040951763,Low
+94,Operations,Operations Associate,33621,0.20214617067600285,Low
+1272,Engineering,Senior Engineer,93407,0.20159271569905238,Low
+1003,Engineering,Engineering Manager,121447,0.20059617850304834,Low
+841,Engineering,Senior Engineer,80479,0.20059440394724423,Low
+1127,Sales,Account Manager,69098,0.2002471306311479,Low
+539,Engineering,QA Engineer,111422,0.19990251822225674,Low
+813,Engineering,Senior Engineer,103506,0.19970685553591375,Low
+108,Sales,Account Manager,72370,0.19838030732844203,Low
+1374,Customer Support,Support Team Lead,68418,0.19802479090862465,Low
+320,Engineering,Software Engineer,82718,0.19771342620934623,Low
+867,Finance,Financial Analyst,57054,0.197498752263611,Low
+1185,Human Resources,Recruiter,63168,0.19668295400410887,Low
+406,Sales,Account Manager,76214,0.19527518729547397,Low
+875,Finance,Finance Manager,74294,0.1945926839811289,Low
+547,Engineering,Senior Engineer,116112,0.19395334397094766,Low
+1067,Finance,Accountant,77572,0.19391170496679574,Low
+139,Human Resources,Recruiter,71082,0.19283003778043867,Low
+555,Sales,Sales Executive,56043,0.19222858108145913,Low
+730,Engineering,Engineering Manager,154756,0.19155445067012436,Low
+763,Operations,Logistics Coordinator,81128,0.19094138586383516,Low
+1154,Marketing,Content Specialist,69176,0.1908770695208617,Low
+1013,Customer Support,Support Associate,45749,0.19030376524976528,Low
+1455,Customer Support,Support Team Lead,58359,0.19014121661383243,Low
+889,Customer Support,Support Team Lead,58261,0.18962627454911715,Low
+974,Sales,Sales Manager,76577,0.18936502450262038,Low
+211,Engineering,Software Engineer,63697,0.1888492193961514,Low
+1081,Sales,Sales Manager,84715,0.18779728697113118,Low
+805,Finance,Finance Manager,115697,0.18743416119037343,Low
+1206,Operations,Operations Manager,67268,0.18702654023114357,Low
+958,Engineering,Engineering Manager,162364,0.18626299514879238,Low
+752,Operations,Operations Manager,63633,0.18502924094458628,Low
+247,Sales,Account Manager,89933,0.1846226721869171,Low
+617,Finance,Accountant,72753,0.18370752792445988,Low
+379,Marketing,Content Specialist,65650,0.18340176779698913,Low
+324,Sales,Sales Executive,52157,0.1833155044511045,Low
+200,Human Resources,HR Manager,58789,0.1819841893859668,Low
+640,Operations,Operations Manager,51866,0.18143658942739674,Low
+810,Marketing,Marketing Manager,66184,0.1811049519808311,Low
+130,Engineering,QA Engineer,90047,0.18082791898922324,Low
+1064,Human Resources,HR Associate,51210,0.18019016026049473,Low
+1180,Sales,Account Manager,78572,0.17907470536747533,Low
+1320,Sales,Account Manager,98109,0.17844914581856336,Low
+411,Sales,Sales Executive,58180,0.17829585379214866,Low
+553,Engineering,Engineering Manager,164100,0.17766840286875749,Low
+1236,Sales,Sales Executive,51526,0.17654309238284,Low
+789,Engineering,Senior Engineer,107512,0.17606328156402326,Low
+1360,Marketing,Marketing Associate,51708,0.17509126017608384,Low
+975,Engineering,Senior Engineer,98285,0.17370704562031894,Low
+930,Customer Support,Support Team Lead,58800,0.1736416796629524,Low
+161,Engineering,QA Engineer,142903,0.1732985371372938,Low
+1456,Engineering,QA Engineer,96296,0.17327320488250897,Low
+137,Marketing,Marketing Associate,49231,0.17095950114235436,Low
+991,Finance,Finance Manager,91385,0.169550091119421,Low
+285,Sales,Sales Executive,48372,0.168708638726393,Low
+256,Marketing,Marketing Associate,57285,0.1676812995667464,Low
+1056,Engineering,Software Engineer,104103,0.16581274524625755,Low
+1078,Customer Support,Support Team Lead,68802,0.16528202478859735,Low
+318,Operations,Logistics Coordinator,70193,0.16466851382534006,Low
+188,Engineering,Engineering Manager,193893,0.1621028262754024,Low
+913,Engineering,Senior Engineer,136105,0.16069403033492194,Low
+169,Engineering,QA Engineer,109610,0.15995613918346807,Low
+1211,Marketing,Marketing Manager,75551,0.15940129924840987,Low
+588,Engineering,Software Engineer,76173,0.15807141188418042,Low
+1440,Human Resources,Recruiter,88470,0.15785818733670212,Low
+1285,Sales,Account Manager,114351,0.15696423909103027,Low
+42,Finance,Finance Manager,86429,0.15547228683578498,Low
+227,Engineering,Software Engineer,80515,0.155391704358215,Low
+1252,Operations,Operations Associate,48832,0.15382334277425522,Low
+1251,Customer Support,Support Team Lead,65236,0.15249771552136218,Low
+265,Customer Support,Support Team Lead,56248,0.15144443892451537,Low
+487,Engineering,Software Engineer,89524,0.1506166625037715,Low
+1446,Human Resources,HR Manager,70374,0.14941531101103547,Low
+361,Finance,Accountant,76165,0.14774126609696003,Low
+77,Human Resources,HR Associate,54208,0.1464104031786956,Low
+1494,Engineering,QA Engineer,129725,0.1456782223633218,Low
+666,Marketing,Marketing Manager,58342,0.14507514834732999,Low
+43,Sales,Account Manager,86164,0.14496782319599166,Low
+656,Engineering,QA Engineer,122226,0.14459773655740832,Low
+261,Sales,Account Manager,97413,0.14440961872260774,Low
+1159,Operations,Operations Manager,63000,0.14408806667876378,Low
+520,Marketing,Content Specialist,95555,0.1440429155805657,Low
+738,Sales,Sales Executive,75884,0.14300704968272318,Low
+1472,Sales,Sales Executive,55844,0.14249073566460138,Low
+100,Sales,Account Manager,78457,0.14232206803730846,Low
+866,Sales,Sales Executive,63758,0.14136750237662848,Low
+513,Marketing,Marketing Associate,65080,0.1409662256262684,Low
+688,Marketing,Marketing Manager,75132,0.14088187482038575,Low
+251,Customer Support,Support Associate,53044,0.14050083694743212,Low
+1498,Engineering,Engineering Manager,159211,0.13899071192112483,Low
+964,Marketing,Content Specialist,87126,0.13878533684566358,Low
+273,Customer Support,Support Associate,48832,0.13821113475538352,Low
+480,Sales,Account Manager,87413,0.13730775507946338,Low
+699,Human Resources,HR Manager,65387,0.13392124778698192,Low
+84,Sales,Account Manager,83385,0.13324112933278057,Low
+162,Operations,Logistics Coordinator,90165,0.13189624460300353,Low
+1088,Engineering,Engineering Manager,172945,0.1305557794931632,Low
+1488,Human Resources,Recruiter,107934,0.1304371091932697,Low
+369,Operations,Logistics Coordinator,82704,0.12979759986758185,Low
+662,Sales,Account Manager,85833,0.1294402821321313,Low
+30,Operations,Operations Manager,65919,0.12917954062204753,Low
+386,Engineering,Software Engineer,84117,0.12530261815303181,Low
+809,Engineering,QA Engineer,178396,0.12520481453317925,Low
+1222,Finance,Accountant,99165,0.12395794792963741,Low
+561,Sales,Sales Executive,45740,0.12349968615203238,Low
+1301,Operations,Logistics Coordinator,72109,0.12326143345360077,Low
+720,Sales,Sales Manager,72374,0.12135473051203545,Low
+254,Sales,Sales Executive,65787,0.12078508623718555,Low
+799,Human Resources,Recruiter,90412,0.11802048224697839,Low
+72,Finance,Financial Analyst,73169,0.11722188006235632,Low
+559,Marketing,Content Specialist,107253,0.11568352184315416,Low
+611,Marketing,Marketing Manager,78912,0.11494202573127923,Low
+1445,Finance,Accountant,79974,0.11428312345118422,Low
+1146,Operations,Operations Manager,74547,0.11323043764994747,Low
+9,Human Resources,Recruiter,85233,0.1091691088223354,Low
+1106,Marketing,Marketing Manager,64467,0.09943286997947057,Low
+342,Sales,Account Manager,111957,0.0986796380453874,Low
+465,Sales,Account Manager,91990,0.09765154761008825,Low
+1378,Operations,Operations Manager,64374,0.09653376250114451,Low
